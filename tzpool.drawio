@@ -4,11 +4,32 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ERYkEcELDKVZfNgPjOHx-3" value="&lt;div&gt;Miner app&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="30" width="120" height="60" as="geometry" />
+        <mxCell id="ERYkEcELDKVZfNgPjOHx-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E9E3FF;" vertex="1" parent="1">
+          <mxGeometry x="180" y="130" width="540" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="ERYkEcELDKVZfNgPjOHx-4" value="&lt;div&gt;Pool service&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="ERYkEcELDKVZfNgPjOHx-3" value="&lt;div&gt;Miner app&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ERYkEcELDKVZfNgPjOHx-5" value="&lt;div&gt;Pool&amp;nbsp;&lt;/div&gt;&lt;div&gt;hash check&amp;nbsp;&lt;/div&gt;&lt;div&gt;service&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ERYkEcELDKVZfNgPjOHx-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.375;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="339" y="90" as="sourcePoint" />
+            <mxPoint x="349" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ERYkEcELDKVZfNgPjOHx-12" value="&lt;div&gt;share&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="ERYkEcELDKVZfNgPjOHx-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERYkEcELDKVZfNgPjOHx-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.625;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ERYkEcELDKVZfNgPjOHx-5" target="ERYkEcELDKVZfNgPjOHx-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="170" as="sourcePoint" />
+            <mxPoint x="570" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ERYkEcELDKVZfNgPjOHx-14" value="status" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="ERYkEcELDKVZfNgPjOHx-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
