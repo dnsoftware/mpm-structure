@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.16">
   <diagram name="Page-1" id="zC7TiCwEvtzbdXVQnTLh">
-    <mxGraphModel dx="1456" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2612" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,13 +29,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ERYkEcELDKVZfNgPjOHx-18" value="&lt;div&gt;Block process &lt;br&gt;&lt;/div&gt;&lt;div&gt;service&lt;/div&gt;&lt;div&gt;(unlocker)&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="570" width="120" height="80" as="geometry" />
+          <mxGeometry x="40" y="570" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ERYkEcELDKVZfNgPjOHx-19" value="&lt;div&gt;Payment&amp;nbsp;&lt;/div&gt;&lt;div&gt;service&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="690" width="120" height="80" as="geometry" />
+          <mxGeometry x="-190" y="310" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ERYkEcELDKVZfNgPjOHx-20" value="&lt;div&gt;API &lt;br&gt;&lt;/div&gt;&lt;div&gt;service&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="630" width="120" height="80" as="geometry" />
+        <mxCell id="ERYkEcELDKVZfNgPjOHx-20" value="&lt;div&gt;API gateway&lt;br&gt;&lt;/div&gt;&lt;div&gt;service&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="170" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ERYkEcELDKVZfNgPjOHx-29" value="&lt;div&gt;Share checker&lt;/div&gt;&lt;div&gt;service&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="310" width="120" height="80" as="geometry" />
@@ -68,13 +68,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ERYkEcELDKVZfNgPjOHx-37" value="share/status" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFF4C3;" vertex="1" parent="1">
-          <mxGeometry x="310" y="265" width="130" height="20" as="geometry" />
+          <mxGeometry x="310" y="265" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ERYkEcELDKVZfNgPjOHx-39" value="kafka" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=south;" vertex="1" parent="1">
+        <mxCell id="ERYkEcELDKVZfNgPjOHx-39" value="kafka (shares topic)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=south;fillColor=#99FF99;" vertex="1" parent="1">
           <mxGeometry x="270" y="520" width="700" height="39" as="geometry" />
         </mxCell>
         <mxCell id="ERYkEcELDKVZfNgPjOHx-47" value="&lt;div&gt;Region 1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="130" width="60" height="30" as="geometry" />
+          <mxGeometry x="520" y="255" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ERYkEcELDKVZfNgPjOHx-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E9E3FF;" vertex="1" parent="1">
           <mxGeometry x="640" y="120" width="110" height="340" as="geometry" />
@@ -134,6 +134,51 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="705" y="240" as="sourcePoint" />
             <mxPoint x="705" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ERYkEcELDKVZfNgPjOHx-61" value="share data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFF4C3;" vertex="1" parent="1">
+          <mxGeometry x="300" y="410" width="200" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ERYkEcELDKVZfNgPjOHx-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.002;entryY=0.356;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ERYkEcELDKVZfNgPjOHx-26" target="ERYkEcELDKVZfNgPjOHx-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="410" as="sourcePoint" />
+            <mxPoint x="100" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ERYkEcELDKVZfNgPjOHx-65" value="&lt;div&gt;Block data&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="ERYkEcELDKVZfNgPjOHx-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERYkEcELDKVZfNgPjOHx-67" value="&lt;div&gt;ClickHouse&lt;/div&gt;&lt;div&gt;share storage&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="270" y="640" width="130" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ERYkEcELDKVZfNgPjOHx-68" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ERYkEcELDKVZfNgPjOHx-39" target="ERYkEcELDKVZfNgPjOHx-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="580" as="sourcePoint" />
+            <mxPoint x="550" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ERYkEcELDKVZfNgPjOHx-69" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ERYkEcELDKVZfNgPjOHx-67" target="ERYkEcELDKVZfNgPjOHx-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="550" as="sourcePoint" />
+            <mxPoint x="580" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="715" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ERYkEcELDKVZfNgPjOHx-70" value="Round data" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="ERYkEcELDKVZfNgPjOHx-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERYkEcELDKVZfNgPjOHx-71" value="kafka (blocks topic)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=south;fillColor=#99FF99;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="460" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ERYkEcELDKVZfNgPjOHx-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.971;exitY=0.363;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ERYkEcELDKVZfNgPjOHx-71" target="ERYkEcELDKVZfNgPjOHx-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="440" as="sourcePoint" />
+            <mxPoint x="540" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
