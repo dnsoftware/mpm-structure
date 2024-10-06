@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.17">
   <diagram name="Page-1" id="zC7TiCwEvtzbdXVQnTLh">
-    <mxGraphModel dx="4091" dy="2231" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3095" dy="1760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -435,7 +435,7 @@
         <mxCell id="kyTLjjN498ih1BtY8LRX-102" value="PostgreSQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#99CCFF;" vertex="1" parent="1">
           <mxGeometry x="-588" y="862" width="87.06" height="108" as="geometry" />
         </mxCell>
-        <mxCell id="kyTLjjN498ih1BtY8LRX-103" value="Master" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFF99;container=0;" vertex="1" parent="1">
+        <mxCell id="kyTLjjN498ih1BtY8LRX-103" value="&lt;div&gt;Standby&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fafafa;container=0;" vertex="1" parent="1">
           <mxGeometry x="-584.47" y="939" width="80" height="17" as="geometry" />
         </mxCell>
         <mxCell id="kyTLjjN498ih1BtY8LRX-109" value="Pgbouncer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -456,8 +456,29 @@
         <mxCell id="kyTLjjN498ih1BtY8LRX-112" value="PostgreSQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#99CCFF;" vertex="1" parent="1">
           <mxGeometry x="-328.11" y="862" width="87.06" height="108" as="geometry" />
         </mxCell>
-        <mxCell id="kyTLjjN498ih1BtY8LRX-113" value="Master" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFF99;container=0;" vertex="1" parent="1">
+        <mxCell id="kyTLjjN498ih1BtY8LRX-113" value="Standby" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fafafa;container=0;" vertex="1" parent="1">
           <mxGeometry x="-324.58000000000004" y="939" width="80" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="kyTLjjN498ih1BtY8LRX-114" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-624.06" y="405" as="sourcePoint" />
+            <mxPoint x="-624.06" y="505" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kyTLjjN498ih1BtY8LRX-115" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-540.06" y="405" as="sourcePoint" />
+            <mxPoint x="-542.1700000000001" y="505" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kyTLjjN498ih1BtY8LRX-116" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-460.06" y="405" as="sourcePoint" />
+            <mxPoint x="-460.67" y="505" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kyTLjjN498ih1BtY8LRX-117" value="client connections" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-651.06" y="427" width="216" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
