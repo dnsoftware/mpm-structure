@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.17">
   <diagram name="Page-1" id="zC7TiCwEvtzbdXVQnTLh">
-    <mxGraphModel dx="2819" dy="2032" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2524" dy="1892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -218,8 +218,8 @@
         <mxCell id="ERYkEcELDKVZfNgPjOHx-104" value="Get worker ID" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFF2CC;" parent="1" vertex="1">
           <mxGeometry y="310" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UcwkUIR1NJ7MeMgji7bA-1" value="etcd" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#CC99FF;" vertex="1" parent="1">
-          <mxGeometry x="-660" y="340" width="110" height="130" as="geometry" />
+        <mxCell id="UcwkUIR1NJ7MeMgji7bA-1" value="etcd" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#CC99FF;" parent="1" vertex="1">
+          <mxGeometry x="-640" y="350" width="110" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
