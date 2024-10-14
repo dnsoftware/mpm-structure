@@ -231,7 +231,7 @@
           <mxGeometry x="-526" y="585" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kyTLjjN498ih1BtY8LRX-54" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-990" y="-270" width="489.89" height="499" as="geometry" />
+          <mxGeometry x="-990.83" y="-259" width="489.89" height="499" as="geometry" />
         </mxCell>
         <mxCell id="kyTLjjN498ih1BtY8LRX-5" value="etcdkeeper" style="swimlane;whiteSpace=wrap;html=1;" parent="kyTLjjN498ih1BtY8LRX-54" vertex="1">
           <mxGeometry width="110" height="76" as="geometry" />
