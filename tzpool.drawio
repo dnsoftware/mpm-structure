@@ -930,7 +930,7 @@
         <mxCell id="TFeO0ovXpeMglBopfEbc-28" value="Access token to Vault" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="TFeO0ovXpeMglBopfEbc-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFeO0ovXpeMglBopfEbc-43" value="&lt;b&gt;Service repository&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+        <mxCell id="TFeO0ovXpeMglBopfEbc-43" value="&lt;b&gt;Service repository&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="120" y="1000" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TFeO0ovXpeMglBopfEbc-65" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -942,7 +942,7 @@
         <mxCell id="TFeO0ovXpeMglBopfEbc-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TFeO0ovXpeMglBopfEbc-65">
           <mxGeometry width="300" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="TFeO0ovXpeMglBopfEbc-45" value="TLS certs generate" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="TFeO0ovXpeMglBopfEbc-65">
+        <mxCell id="TFeO0ovXpeMglBopfEbc-45" value="TLS certs generate" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#A9C4EB;" vertex="1" parent="TFeO0ovXpeMglBopfEbc-65">
           <mxGeometry x="90" y="60" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TFeO0ovXpeMglBopfEbc-47" value="Service" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#CCFF99;" vertex="1" parent="TFeO0ovXpeMglBopfEbc-65">
