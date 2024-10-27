@@ -897,7 +897,7 @@
             <mxPoint x="625" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TFeO0ovXpeMglBopfEbc-35" value="&lt;div&gt;CA cert&lt;/div&gt;&lt;div&gt;&lt;div&gt;Login/password for etcs&lt;/div&gt;&lt;/div&gt;&lt;div&gt;etcd luster IPs&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="TFeO0ovXpeMglBopfEbc-74" vertex="1">
+        <mxCell id="TFeO0ovXpeMglBopfEbc-35" value="&lt;div&gt;CA cert&lt;/div&gt;&lt;div&gt;&lt;div&gt;Login/password for etcs&lt;/div&gt;&lt;/div&gt;&lt;div&gt;etcd cluster IPs&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="TFeO0ovXpeMglBopfEbc-74" vertex="1">
           <mxGeometry x="668" y="244" width="170" height="56" as="geometry" />
         </mxCell>
         <mxCell id="TFeO0ovXpeMglBopfEbc-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.973;exitY=0.947;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="TFeO0ovXpeMglBopfEbc-74" source="TFeO0ovXpeMglBopfEbc-11" target="TFeO0ovXpeMglBopfEbc-10" edge="1">
