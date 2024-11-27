@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.9.1">
   <diagram name="Page-1" id="zC7TiCwEvtzbdXVQnTLh">
-    <mxGraphModel dx="3294" dy="1854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3932" dy="2156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4G9J08PbndAcdF_Xj2D8-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;" vertex="1" parent="1">
+          <mxGeometry x="-1680" y="1600" width="1020" height="510" as="geometry" />
+        </mxCell>
         <mxCell id="ERYkEcELDKVZfNgPjOHx-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E9E3FF;" parent="1" vertex="1">
           <mxGeometry x="-1010" y="720" width="410" height="340" as="geometry" />
         </mxCell>
@@ -1130,6 +1133,9 @@
             <mxPoint x="-1070" y="1840" as="sourcePoint" />
             <mxPoint x="-1020" y="1790" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4G9J08PbndAcdF_Xj2D8-41" value="&lt;span style=&quot;white-space: pre-wrap;&quot; data-src-align=&quot;0:7:14:5&quot; class=&quot;EzKURWReUAB5oZgtQNkl&quot;&gt;log&lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot; data-src-align=&quot;8:5&quot; class=&quot;EzKURWReUAB5oZgtQNkl&quot;&gt;collection&lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt; system&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1660" y="2070" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
