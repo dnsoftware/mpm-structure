@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.9.1">
   <diagram name="Page-1" id="zC7TiCwEvtzbdXVQnTLh">
-    <mxGraphModel dx="3462" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4091" dy="2231" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1053,9 +1053,6 @@
         <mxCell id="4G9J08PbndAcdF_Xj2D8-2" value="&lt;div&gt;kafka&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=south;fillColor=#99FF99;" vertex="1" parent="1">
           <mxGeometry x="-1252" y="1851" width="152" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4G9J08PbndAcdF_Xj2D8-3" value="Kibana" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
-          <mxGeometry x="-762" y="1816" width="120" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="4G9J08PbndAcdF_Xj2D8-9" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-1612" y="1689" width="280" height="120" as="geometry" />
         </mxCell>
@@ -1157,6 +1154,33 @@
         </mxCell>
         <mxCell id="4G9J08PbndAcdF_Xj2D8-47" value="&lt;span style=&quot;white-space: pre-wrap;&quot; data-src-align=&quot;0:1&quot; class=&quot;EzKURWReUAB5oZgtQNkl&quot;&gt;in&lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot; data-src-align=&quot;10:3&quot; class=&quot;EzKURWReUAB5oZgtQNkl&quot;&gt;the&lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot; data-src-align=&quot;2:5:14:2&quot; class=&quot;EzKURWReUAB5oZgtQNkl&quot;&gt;same&lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot; data-src-align=&quot;17:10&quot; class=&quot;EzKURWReUAB5oZgtQNkl&quot;&gt;docker-compose&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1300" y="2020" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4G9J08PbndAcdF_Xj2D8-48" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer" vertex="1" parent="1">
+          <mxGeometry x="-1216.22" y="1744" width="82.22" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="4G9J08PbndAcdF_Xj2D8-49" value="kafka-ui" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1202.11" y="1760.5" width="56.11" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4G9J08PbndAcdF_Xj2D8-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4G9J08PbndAcdF_Xj2D8-48" target="4G9J08PbndAcdF_Xj2D8-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1050" y="1690" as="sourcePoint" />
+            <mxPoint x="-1000" y="1640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4G9J08PbndAcdF_Xj2D8-53" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-740" y="1840.5" width="101.11000000000001" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="4G9J08PbndAcdF_Xj2D8-51" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer" vertex="1" parent="4G9J08PbndAcdF_Xj2D8-53">
+          <mxGeometry width="101.11" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="4G9J08PbndAcdF_Xj2D8-52" value="Kibana" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4G9J08PbndAcdF_Xj2D8-53">
+          <mxGeometry x="20.559999999999945" y="23.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4G9J08PbndAcdF_Xj2D8-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4G9J08PbndAcdF_Xj2D8-1" target="4G9J08PbndAcdF_Xj2D8-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1140" y="1510" as="sourcePoint" />
+            <mxPoint x="-1090" y="1460" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
