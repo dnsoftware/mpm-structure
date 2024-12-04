@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fWJRM3SsBCQPm4Tlz16k-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;" vertex="1" parent="1">
-          <mxGeometry x="-1632" y="2210" width="1062" height="390" as="geometry" />
+          <mxGeometry x="-1632" y="2210" width="982" height="390" as="geometry" />
         </mxCell>
         <mxCell id="4G9J08PbndAcdF_Xj2D8-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;" parent="1" vertex="1">
           <mxGeometry x="-1632" y="1636" width="1020" height="510" as="geometry" />
@@ -1189,16 +1189,16 @@
           <mxGeometry x="-1597" y="2280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fWJRM3SsBCQPm4Tlz16k-3" value="&lt;div&gt;kafka&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=south;fillColor=#99FF99;" vertex="1" parent="1">
-          <mxGeometry x="-1316" y="2368" width="152" height="70" as="geometry" />
+          <mxGeometry x="-1391" y="2366" width="152" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fWJRM3SsBCQPm4Tlz16k-4" value="Go exporter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FFFF;" vertex="1" parent="1">
-          <mxGeometry x="-1070" y="2345" width="80.11" height="114" as="geometry" />
+          <mxGeometry x="-1162.05" y="2346" width="80.11" height="114" as="geometry" />
         </mxCell>
         <mxCell id="fWJRM3SsBCQPm4Tlz16k-5" value="Prometheus" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FF9933;" vertex="1" parent="1">
-          <mxGeometry x="-900" y="2333" width="98" height="140" as="geometry" />
+          <mxGeometry x="-988" y="2331" width="98" height="140" as="geometry" />
         </mxCell>
         <mxCell id="fWJRM3SsBCQPm4Tlz16k-8" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-709.11" y="2366" width="101.11000000000001" height="91" as="geometry" />
+          <mxGeometry x="-800" y="2366" width="101.11000000000001" height="91" as="geometry" />
         </mxCell>
         <mxCell id="fWJRM3SsBCQPm4Tlz16k-6" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#6666FF;shape=mxgraph.azure.computer" vertex="1" parent="fWJRM3SsBCQPm4Tlz16k-8">
           <mxGeometry width="101.11" height="91" as="geometry" />
