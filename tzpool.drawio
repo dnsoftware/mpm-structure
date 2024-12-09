@@ -1458,8 +1458,8 @@
         <mxCell id="vvHvxiC7P0n0-EurL7go-63" value="&lt;div&gt;получаем коды из справочников&amp;nbsp;&lt;/div&gt;&lt;div&gt;(монета, воркер, кошелек)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-180" y="3167" width="220" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="vvHvxiC7P0n0-EurL7go-67" value="&lt;div&gt;если нет к кэше - запрашиваем&amp;nbsp;&lt;/div&gt;&lt;div&gt;в Postgres&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-479" y="3144" width="250" height="30" as="geometry" />
+        <mxCell id="vvHvxiC7P0n0-EurL7go-67" value="&lt;div&gt;если нет к кэше -&amp;nbsp;&lt;/div&gt;&lt;div&gt;запрашиваем&amp;nbsp;&lt;/div&gt;&lt;div&gt;в Postgres&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-385" y="3194" width="119" height="56" as="geometry" />
         </mxCell>
         <mxCell id="vvHvxiC7P0n0-EurL7go-68" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.689;exitY=0.175;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
