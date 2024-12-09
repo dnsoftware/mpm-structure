@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
   <diagram name="Page-1" id="zC7TiCwEvtzbdXVQnTLh">
-    <mxGraphModel dx="3593" dy="1990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3214" dy="1812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1504,6 +1504,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="402.5" as="sourcePoint" />
             <mxPoint x="480" y="413.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="403" />
+              <mxPoint x="580" y="337" />
+              <mxPoint x="487" y="337" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HoqDJreu8S-VWED5uN6Z-2" value="Fluentbit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="vvHvxiC7P0n0-EurL7go-54">
@@ -1725,7 +1730,7 @@
           <mxGeometry x="20.549999999999955" y="22.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HoqDJreu8S-VWED5uN6Z-5" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="600" y="2910" width="101.11000000000001" height="91" as="geometry" />
+          <mxGeometry x="550" y="2910" width="101.11000000000001" height="91" as="geometry" />
         </mxCell>
         <mxCell id="HoqDJreu8S-VWED5uN6Z-6" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#6666FF;shape=mxgraph.azure.computer" vertex="1" parent="HoqDJreu8S-VWED5uN6Z-5">
           <mxGeometry width="101.11" height="91" as="geometry" />
