@@ -1413,6 +1413,12 @@
         <mxCell id="vvHvxiC7P0n0-EurL7go-44" value="нормализованные шары" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-77" y="2670" width="47" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="vvHvxiC7P0n0-EurL7go-45" value="шары" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-325" y="2605" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vvHvxiC7P0n0-EurL7go-46" value="шары" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-84" y="2583" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
