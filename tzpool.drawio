@@ -1473,6 +1473,15 @@
             <mxPoint x="330" y="2670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vvHvxiC7P0n0-EurL7go-69" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.308;entryY=0.56;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vvHvxiC7P0n0-EurL7go-60" target="vvHvxiC7P0n0-EurL7go-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="2720" as="sourcePoint" />
+            <mxPoint x="330" y="2670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vvHvxiC7P0n0-EurL7go-70" value="формируем пакет нормализованных шар и записываем в Clickhouse" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="2680" width="200" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
