@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
   <diagram name="Page-1" id="zC7TiCwEvtzbdXVQnTLh">
-    <mxGraphModel dx="3076" dy="1747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3719" dy="2049" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1504,9 +1504,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HoqDJreu8S-VWED5uN6Z-2" value="Fluentbit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="vvHvxiC7P0n0-EurL7go-54">
-          <mxGeometry x="656.7900000000001" y="683.5" width="76.21" height="28.24" as="geometry" />
+          <mxGeometry x="548.08" y="683.5" width="76.21" height="28.24" as="geometry" />
         </mxCell>
-        <mxCell id="HoqDJreu8S-VWED5uN6Z-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="vvHvxiC7P0n0-EurL7go-54" source="vvHvxiC7P0n0-EurL7go-141" target="HoqDJreu8S-VWED5uN6Z-2">
+        <mxCell id="HoqDJreu8S-VWED5uN6Z-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="vvHvxiC7P0n0-EurL7go-54" source="vvHvxiC7P0n0-EurL7go-141" target="HoqDJreu8S-VWED5uN6Z-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="553.5" as="sourcePoint" />
             <mxPoint x="600" y="503.5" as="targetPoint" />
@@ -1654,6 +1654,21 @@
         </mxCell>
         <mxCell id="vvHvxiC7P0n0-EurL7go-130" value="Kibana" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="vvHvxiC7P0n0-EurL7go-135" vertex="1">
           <mxGeometry x="20.549999999999955" y="22.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HoqDJreu8S-VWED5uN6Z-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="550" y="2850" width="101.11000000000001" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="HoqDJreu8S-VWED5uN6Z-6" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#6666FF;shape=mxgraph.azure.computer" vertex="1" parent="HoqDJreu8S-VWED5uN6Z-5">
+          <mxGeometry width="101.11" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="HoqDJreu8S-VWED5uN6Z-7" value="Grafana" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HoqDJreu8S-VWED5uN6Z-5">
+          <mxGeometry x="17.66999999999996" y="23.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HoqDJreu8S-VWED5uN6Z-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.004;entryY=0.443;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vvHvxiC7P0n0-EurL7go-144" target="HoqDJreu8S-VWED5uN6Z-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="2820" as="sourcePoint" />
+            <mxPoint x="140" y="2770" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
