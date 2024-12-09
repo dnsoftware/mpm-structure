@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vvHvxiC7P0n0-EurL7go-55" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F7F7F7;" vertex="1" parent="1">
+          <mxGeometry x="360" y="2413" width="520" height="477" as="geometry" />
+        </mxCell>
         <mxCell id="g0iOiTDT5bsdaC7DLG31-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FAFAFA;" parent="1" vertex="1">
           <mxGeometry x="-280" y="1766" width="570" height="370" as="geometry" />
         </mxCell>
@@ -1314,11 +1317,8 @@
         <mxCell id="g0iOiTDT5bsdaC7DLG31-16" value="OpenTelemetry" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-280" y="2100" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vvHvxiC7P0n0-EurL7go-52" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F19C99;" vertex="1" parent="1">
-          <mxGeometry x="380" y="2440" width="510" height="450" as="geometry" />
-        </mxCell>
         <mxCell id="vvHvxiC7P0n0-EurL7go-53" value="&lt;div&gt;Save/get shares service&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="2860" width="152.5" height="30" as="geometry" />
+          <mxGeometry x="439" y="2846" width="152.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vvHvxiC7P0n0-EurL7go-54" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-500" y="2275.5" width="780" height="624.5" as="geometry" />
@@ -1433,6 +1433,9 @@
         </mxCell>
         <mxCell id="vvHvxiC7P0n0-EurL7go-51" value="&lt;div&gt;Share checker&lt;/div&gt;&lt;div&gt;service&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=none;dashed=1;" vertex="1" parent="vvHvxiC7P0n0-EurL7go-54">
           <mxGeometry x="46.5" y="480.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vvHvxiC7P0n0-EurL7go-57" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F19C99;" vertex="1" parent="1">
+          <mxGeometry x="365" y="2833" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
