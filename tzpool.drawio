@@ -1,14 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
   <diagram name="Page-1" id="zC7TiCwEvtzbdXVQnTLh">
-    <mxGraphModel dx="3462" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3793" dy="2090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vvHvxiC7P0n0-EurL7go-58" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-545" y="2220" width="1545" height="800" as="geometry" />
+          <mxGeometry x="-545" y="2220" width="1545" height="1500" as="geometry" />
         </mxCell>
         <mxCell id="vvHvxiC7P0n0-EurL7go-55" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F7F7F7;" vertex="1" parent="1">
-          <mxGeometry x="360" y="2413" width="520" height="477" as="geometry" />
+          <mxGeometry x="-500" y="2960" width="680" height="594" as="geometry" />
         </mxCell>
         <mxCell id="g0iOiTDT5bsdaC7DLG31-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FAFAFA;" parent="1" vertex="1">
           <mxGeometry x="-280" y="1766" width="570" height="370" as="geometry" />
@@ -1321,7 +1321,7 @@
           <mxGeometry x="-280" y="2100" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vvHvxiC7P0n0-EurL7go-53" value="&lt;div&gt;Save/get shares service&amp;nbsp; (Golang) &lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="439" y="2846" width="221" height="30" as="geometry" />
+          <mxGeometry x="-430" y="3517" width="221" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vvHvxiC7P0n0-EurL7go-54" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-500" y="2275.5" width="780" height="624.5" as="geometry" />
@@ -1441,46 +1441,70 @@
           <mxGeometry y="594.5" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vvHvxiC7P0n0-EurL7go-57" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F19C99;" vertex="1" parent="1">
-          <mxGeometry x="365" y="2833" width="70" height="50" as="geometry" />
+          <mxGeometry x="-495" y="3497" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vvHvxiC7P0n0-EurL7go-60" value="кэш-справочник (ristretto)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#D5E8D4;" vertex="1" parent="1">
-          <mxGeometry x="425" y="2550" width="190" height="70" as="geometry" />
+          <mxGeometry x="-275" y="3214" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vvHvxiC7P0n0-EurL7go-61" value="забираем шары из кафки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="2440" width="200" height="40" as="geometry" />
+          <mxGeometry x="-280" y="3104" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vvHvxiC7P0n0-EurL7go-62" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vvHvxiC7P0n0-EurL7go-61" target="vvHvxiC7P0n0-EurL7go-60">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="2640" as="sourcePoint" />
-            <mxPoint x="280" y="2590" as="targetPoint" />
+            <mxPoint x="-470" y="3304" as="sourcePoint" />
+            <mxPoint x="-420" y="3254" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vvHvxiC7P0n0-EurL7go-63" value="получаем коды из справочников (монета, воркер, кошелек)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="2500" width="360" height="30" as="geometry" />
+        <mxCell id="vvHvxiC7P0n0-EurL7go-63" value="&lt;div&gt;получаем коды из справочников&amp;nbsp;&lt;/div&gt;&lt;div&gt;(монета, воркер, кошелек)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="3167" width="220" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="vvHvxiC7P0n0-EurL7go-66" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.955;entryY=0.456;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="vvHvxiC7P0n0-EurL7go-58">
+        <mxCell id="vvHvxiC7P0n0-EurL7go-67" value="&lt;div&gt;если нет к кэше - запрашиваем&amp;nbsp;&lt;/div&gt;&lt;div&gt;в Postgres&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-479" y="3144" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vvHvxiC7P0n0-EurL7go-68" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.689;exitY=0.175;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="615" y="2585" as="sourcePoint" />
-            <mxPoint x="910" y="2590" as="targetPoint" />
+            <mxPoint x="-180.4949999999999" y="3146.5" as="sourcePoint" />
+            <mxPoint x="-180" y="3147" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-180" y="3147" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vvHvxiC7P0n0-EurL7go-67" value="если нет к кэше - запрашиваем в Postgres" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="2560" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="vvHvxiC7P0n0-EurL7go-68" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.689;exitY=0.175;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vvHvxiC7P0n0-EurL7go-58" target="vvHvxiC7P0n0-EurL7go-61">
+        <mxCell id="vvHvxiC7P0n0-EurL7go-69" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vvHvxiC7P0n0-EurL7go-60" target="vvHvxiC7P0n0-EurL7go-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="2720" as="sourcePoint" />
-            <mxPoint x="330" y="2670" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vvHvxiC7P0n0-EurL7go-69" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.308;entryY=0.56;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vvHvxiC7P0n0-EurL7go-60" target="vvHvxiC7P0n0-EurL7go-55">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="2720" as="sourcePoint" />
-            <mxPoint x="330" y="2670" as="targetPoint" />
+            <mxPoint x="-420" y="3384" as="sourcePoint" />
+            <mxPoint x="-370" y="3334" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vvHvxiC7P0n0-EurL7go-70" value="&lt;div&gt;формируем пакет нормализованных шар и записываем в Clickhouse&amp;nbsp;&lt;/div&gt;&lt;div&gt;(пакет github.com/ClickHouse/clickhouse-go)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="2680" width="200" height="80" as="geometry" />
+          <mxGeometry x="-280" y="3344" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vvHvxiC7P0n0-EurL7go-73" value="&lt;div&gt;kafka&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=south;fillColor=#FFFFFF;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-251" y="3007" width="152" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="vvHvxiC7P0n0-EurL7go-74" value="&lt;div&gt;Postgresql&amp;nbsp;&lt;/div&gt;&lt;div&gt;cluster&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFFFFF;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="3199" width="95" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vvHvxiC7P0n0-EurL7go-75" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vvHvxiC7P0n0-EurL7go-74" target="vvHvxiC7P0n0-EurL7go-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-320" y="3240" as="sourcePoint" />
+            <mxPoint x="-270" y="3190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vvHvxiC7P0n0-EurL7go-76" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.986;exitY=0.531;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vvHvxiC7P0n0-EurL7go-73" target="vvHvxiC7P0n0-EurL7go-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-120" y="3180" as="sourcePoint" />
+            <mxPoint x="-70" y="3130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vvHvxiC7P0n0-EurL7go-77" value="&lt;div&gt;ClickHouse cluster&lt;br&gt;&lt;/div&gt;&lt;div&gt;share storage&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFFFFF;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-485" y="3334" width="95" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vvHvxiC7P0n0-EurL7go-78" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vvHvxiC7P0n0-EurL7go-70" target="vvHvxiC7P0n0-EurL7go-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-290" y="3250" as="sourcePoint" />
+            <mxPoint x="-240" y="3200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
