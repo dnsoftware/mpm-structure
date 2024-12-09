@@ -1387,10 +1387,10 @@
           <mxGeometry x="710" y="254.5" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vvHvxiC7P0n0-EurL7go-45" value="шары" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vvHvxiC7P0n0-EurL7go-54">
-          <mxGeometry x="175" y="304.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="175" y="243.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vvHvxiC7P0n0-EurL7go-46" value="шары" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vvHvxiC7P0n0-EurL7go-54">
-          <mxGeometry x="460" y="308.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="490" y="273.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vvHvxiC7P0n0-EurL7go-59" value="Shares pipeline" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vvHvxiC7P0n0-EurL7go-54">
           <mxGeometry x="-20" y="760" width="160" height="30" as="geometry" />
