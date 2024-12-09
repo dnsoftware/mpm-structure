@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
   <diagram name="Page-1" id="zC7TiCwEvtzbdXVQnTLh">
-    <mxGraphModel dx="3294" dy="1854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4091" dy="2231" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1200,9 +1200,6 @@
         <mxCell id="fWJRM3SsBCQPm4Tlz16k-3" value="&lt;div&gt;kafka&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=south;fillColor=#99FF99;" parent="1" vertex="1">
           <mxGeometry x="-1391" y="2366" width="152" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="fWJRM3SsBCQPm4Tlz16k-4" value="Go exporter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FFFF;" parent="1" vertex="1">
-          <mxGeometry x="-1162.05" y="2346" width="80.11" height="114" as="geometry" />
-        </mxCell>
         <mxCell id="fWJRM3SsBCQPm4Tlz16k-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-990" y="2273" width="310" height="257" as="geometry" />
         </mxCell>
@@ -1242,15 +1239,15 @@
             <mxPoint x="-770" y="2130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fWJRM3SsBCQPm4Tlz16k-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fWJRM3SsBCQPm4Tlz16k-3" target="fWJRM3SsBCQPm4Tlz16k-4" edge="1">
+        <mxCell id="fWJRM3SsBCQPm4Tlz16k-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fWJRM3SsBCQPm4Tlz16k-3" target="vvHvxiC7P0n0-EurL7go-93" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-820" y="2180" as="sourcePoint" />
-            <mxPoint x="-770" y="2130" as="targetPoint" />
+            <mxPoint x="-1162.0500000000002" y="2403" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fWJRM3SsBCQPm4Tlz16k-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="fWJRM3SsBCQPm4Tlz16k-4" target="fWJRM3SsBCQPm4Tlz16k-5" edge="1">
+        <mxCell id="fWJRM3SsBCQPm4Tlz16k-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="vvHvxiC7P0n0-EurL7go-93" target="fWJRM3SsBCQPm4Tlz16k-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-820" y="2180" as="sourcePoint" />
+            <mxPoint x="-1081.9400000000005" y="2403" as="sourcePoint" />
             <mxPoint x="-770" y="2130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1554,6 +1551,9 @@
           <mxGeometry x="0.1279" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vvHvxiC7P0n0-EurL7go-93" value="Go exporter" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#E5CCFF;" vertex="1" parent="1">
+          <mxGeometry x="-1180" y="2361.5" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
