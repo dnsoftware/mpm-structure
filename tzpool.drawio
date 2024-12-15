@@ -1765,6 +1765,12 @@
         <mxCell id="28J1J0x0WOKpHjWKuipN-4" value="&lt;div&gt;запросы к http серверу&lt;/div&gt;&lt;div&gt;события kafka&lt;/div&gt;&lt;div&gt;и т.п.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1180" y="2790" width="170" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="28J1J0x0WOKpHjWKuipN-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
+          <mxGeometry x="-1530" y="2950" width="530" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="28J1J0x0WOKpHjWKuipN-6" value="UseCases || Business Logic" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-1422" y="2971" width="312" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
