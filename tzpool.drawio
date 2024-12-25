@@ -1728,9 +1728,6 @@
         <mxCell id="edesAq91Je20VQknrMrQ-48" value="RAM cache" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#CCFF99;" vertex="1" parent="vvHvxiC7P0n0-EurL7go-54">
           <mxGeometry x="842" y="-36" width="110" height="36.5" as="geometry" />
         </mxCell>
-        <mxCell id="edesAq91Je20VQknrMrQ-49" value="RAM cache" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#CCFF99;" vertex="1" parent="vvHvxiC7P0n0-EurL7go-54">
-          <mxGeometry x="860" y="233.5" width="110" height="36.5" as="geometry" />
-        </mxCell>
         <mxCell id="edesAq91Je20VQknrMrQ-50" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="vvHvxiC7P0n0-EurL7go-54" source="edesAq91Je20VQknrMrQ-47" target="vvHvxiC7P0n0-EurL7go-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="103.5" as="sourcePoint" />
@@ -1741,12 +1738,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="183.5" as="sourcePoint" />
             <mxPoint x="560" y="133.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="edesAq91Je20VQknrMrQ-52" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.342;exitY=0.439;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="vvHvxiC7P0n0-EurL7go-54" source="edesAq91Je20VQknrMrQ-11" target="edesAq91Je20VQknrMrQ-49">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="133.5" as="sourcePoint" />
-            <mxPoint x="750" y="83.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vvHvxiC7P0n0-EurL7go-57" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F19C99;" parent="1" vertex="1">
