@@ -1371,9 +1371,6 @@
         <mxCell id="vvHvxiC7P0n0-EurL7go-45" value="шары" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="vvHvxiC7P0n0-EurL7go-54" vertex="1">
           <mxGeometry x="175" y="256.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vvHvxiC7P0n0-EurL7go-46" value="шары" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="vvHvxiC7P0n0-EurL7go-54" vertex="1">
-          <mxGeometry x="486.79" y="310" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="vvHvxiC7P0n0-EurL7go-59" value="Shares pipeline" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="vvHvxiC7P0n0-EurL7go-54" vertex="1">
           <mxGeometry x="-20" y="760" width="160" height="30" as="geometry" />
         </mxCell>
@@ -1483,6 +1480,11 @@
             <Array as="points">
               <mxPoint x="588" y="403" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edesAq91Je20VQknrMrQ-53" value="shares" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vvHvxiC7P0n0-EurL7go-146">
+          <mxGeometry x="0.2123" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HoqDJreu8S-VWED5uN6Z-2" value="Fluentbit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="vvHvxiC7P0n0-EurL7go-54" vertex="1">
