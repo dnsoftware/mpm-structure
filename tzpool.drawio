@@ -1608,6 +1608,9 @@
             <mxPoint x="1000" y="283.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="edesAq91Je20VQknrMrQ-15" value="Запрос данных" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vvHvxiC7P0n0-EurL7go-54">
+          <mxGeometry x="993" y="216.5" width="110" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="vvHvxiC7P0n0-EurL7go-57" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F19C99;" parent="1" vertex="1">
           <mxGeometry x="-505" y="4488.219999999999" width="70" height="50" as="geometry" />
         </mxCell>
