@@ -1854,7 +1854,7 @@
           <mxGeometry width="101.11" height="91" as="geometry" />
         </mxCell>
         <mxCell id="vvHvxiC7P0n0-EurL7go-130" value="Kibana" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="vvHvxiC7P0n0-EurL7go-135" vertex="1">
-          <mxGeometry x="20.549999999999955" y="22.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="21.549999999999955" y="22.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HoqDJreu8S-VWED5uN6Z-5" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="840" y="2997.5" width="101.11000000000001" height="91" as="geometry" />
