@@ -1564,7 +1564,7 @@
         <mxCell id="edesAq91Je20VQknrMrQ-3" value="&lt;div&gt;Miners&amp;nbsp;&lt;/div&gt;&lt;div&gt;processor&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#C3ABD0;" parent="vvHvxiC7P0n0-EurL7go-54" vertex="1">
           <mxGeometry x="940" y="232.5" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="edesAq91Je20VQknrMrQ-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="vvHvxiC7P0n0-EurL7go-54" source="vvHvxiC7P0n0-EurL7go-4" target="edesAq91Je20VQknrMrQ-3" edge="1">
+        <mxCell id="edesAq91Je20VQknrMrQ-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="vvHvxiC7P0n0-EurL7go-54" source="vvHvxiC7P0n0-EurL7go-4" target="edesAq91Je20VQknrMrQ-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="760" y="320.5" as="sourcePoint" />
             <mxPoint x="810" y="270.5" as="targetPoint" />
