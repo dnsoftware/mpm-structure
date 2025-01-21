@@ -1344,9 +1344,6 @@
         <mxCell id="vvHvxiC7P0n0-EurL7go-41" value="&lt;div&gt;данные&amp;nbsp;&lt;/div&gt;&lt;div&gt;справочников&lt;/div&gt;&lt;div&gt;(через&amp;nbsp;&lt;/div&gt;&lt;div&gt;gRPC API)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="vvHvxiC7P0n0-EurL7go-54" vertex="1">
           <mxGeometry x="663" y="199" width="130" height="66.5" as="geometry" />
         </mxCell>
-        <mxCell id="vvHvxiC7P0n0-EurL7go-44" value="&lt;div&gt;нормализованные&amp;nbsp;&lt;/div&gt;&lt;div&gt;шары (через&amp;nbsp;&lt;/div&gt;&lt;div&gt;gRPC API)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="vvHvxiC7P0n0-EurL7go-54" vertex="1">
-          <mxGeometry x="630" y="15.2" width="140" height="44" as="geometry" />
-        </mxCell>
         <mxCell id="vvHvxiC7P0n0-EurL7go-59" value="Shares pipeline" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="vvHvxiC7P0n0-EurL7go-54" vertex="1">
           <mxGeometry x="-20" y="760" width="160" height="30" as="geometry" />
         </mxCell>
@@ -2053,6 +2050,9 @@
             <mxPoint x="90" y="2602.7" as="sourcePoint" />
             <mxPoint x="140" y="2552.7" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vvHvxiC7P0n0-EurL7go-44" value="&lt;div&gt;нормализованные&amp;nbsp;&lt;/div&gt;&lt;div&gt;шары (через&amp;nbsp;&lt;/div&gt;&lt;div&gt;gRPC API)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="100" y="2310" width="140" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
