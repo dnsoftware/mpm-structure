@@ -1309,7 +1309,7 @@
           <mxGeometry x="-540" y="-230" width="1860" height="1080" as="geometry" />
         </mxCell>
         <mxCell id="edesAq91Je20VQknrMrQ-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="vvHvxiC7P0n0-EurL7go-54" vertex="1">
-          <mxGeometry x="790.11" y="128" width="519.89" height="172" as="geometry" />
+          <mxGeometry x="770" y="128" width="540" height="182" as="geometry" />
         </mxCell>
         <mxCell id="vvHvxiC7P0n0-EurL7go-139" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" parent="vvHvxiC7P0n0-EurL7go-54" vertex="1">
           <mxGeometry x="30" y="120" width="210" height="290" as="geometry" />
@@ -1345,7 +1345,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vvHvxiC7P0n0-EurL7go-41" value="&lt;div&gt;данные&amp;nbsp;&lt;/div&gt;&lt;div&gt;справочников&lt;/div&gt;&lt;div&gt;(через&amp;nbsp;&lt;/div&gt;&lt;div&gt;gRPC API)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="vvHvxiC7P0n0-EurL7go-54" vertex="1">
-          <mxGeometry x="663" y="199" width="130" height="66.5" as="geometry" />
+          <mxGeometry x="635" y="112.5" width="130" height="66.5" as="geometry" />
         </mxCell>
         <mxCell id="vvHvxiC7P0n0-EurL7go-59" value="Shares pipeline" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="vvHvxiC7P0n0-EurL7go-54" vertex="1">
           <mxGeometry x="-20" y="760" width="160" height="30" as="geometry" />
@@ -1574,7 +1574,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="edesAq91Je20VQknrMrQ-19" value="Fluentbit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="vvHvxiC7P0n0-EurL7go-54" vertex="1">
-          <mxGeometry x="800" y="246.5" width="76.21" height="28.24" as="geometry" />
+          <mxGeometry x="777.94" y="250.88" width="76.21" height="28.24" as="geometry" />
         </mxCell>
         <mxCell id="edesAq91Je20VQknrMrQ-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#3333FF;" parent="vvHvxiC7P0n0-EurL7go-54" source="edesAq91Je20VQknrMrQ-3" target="edesAq91Je20VQknrMrQ-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1614,11 +1614,10 @@
         <mxCell id="edesAq91Je20VQknrMrQ-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.171;exitY=1.015;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#FF0000;" parent="vvHvxiC7P0n0-EurL7go-54" source="edesAq91Je20VQknrMrQ-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1070" y="313.5" as="sourcePoint" />
-            <mxPoint x="960" y="442.5" as="targetPoint" />
+            <mxPoint x="935" y="442.5" as="targetPoint" />
             <Array as="points">
               <mxPoint x="895" y="237" />
-              <mxPoint x="895" y="423" />
-              <mxPoint x="960" y="423" />
+              <mxPoint x="895" y="443" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1637,7 +1636,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="edesAq91Je20VQknrMrQ-15" value="&lt;div&gt;Запрос данных (через gRPC API)&lt;/div&gt;&lt;div&gt;справочники для фронтенда&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="vvHvxiC7P0n0-EurL7go-54" vertex="1">
-          <mxGeometry x="992" y="76.75" width="197" height="30" as="geometry" />
+          <mxGeometry x="905" y="39.75" width="197" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vvHvxiC7P0n0-EurL7go-44" value="&lt;div&gt;нормализованные&amp;nbsp;&lt;/div&gt;&lt;div&gt;шары (через&amp;nbsp;&lt;/div&gt;&lt;div&gt;gRPC API)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="vvHvxiC7P0n0-EurL7go-54" vertex="1">
           <mxGeometry x="455" y="32.75" width="140" height="44" as="geometry" />
