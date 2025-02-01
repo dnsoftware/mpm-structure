@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.10">
   <diagram name="Page-1" id="zC7TiCwEvtzbdXVQnTLh">
-    <mxGraphModel dx="4162" dy="2247" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3783" dy="2071" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1654,14 +1654,8 @@
         <mxCell id="Xujkd4e2R2l38mAxWZec-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="vvHvxiC7P0n0-EurL7go-54">
           <mxGeometry x="825" y="400" width="480" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="Xujkd4e2R2l38mAxWZec-10" value="Redis" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FF0000;" vertex="1" parent="vvHvxiC7P0n0-EurL7go-54">
-          <mxGeometry x="-103" y="197.25" width="110" height="36.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Xujkd4e2R2l38mAxWZec-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="vvHvxiC7P0n0-EurL7go-54" source="Xujkd4e2R2l38mAxWZec-10" target="vvHvxiC7P0n0-EurL7go-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="475" y="262.5" as="sourcePoint" />
-            <mxPoint x="525" y="212.5" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="Xujkd4e2R2l38mAxWZec-12" value="Nginx" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#E1D5E7,var(--ge-dark-color, #121212));" vertex="1" parent="vvHvxiC7P0n0-EurL7go-54">
+          <mxGeometry x="-89" y="177.05999999999995" width="93" height="33.38" as="geometry" />
         </mxCell>
         <mxCell id="vvHvxiC7P0n0-EurL7go-57" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F19C99;" parent="1" vertex="1">
           <mxGeometry x="735" y="2898.2199999999993" width="70" height="50" as="geometry" />
@@ -2116,8 +2110,23 @@
             <mxPoint x="-240" y="2920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xujkd4e2R2l38mAxWZec-12" value="Nginx" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#E1D5E7,var(--ge-dark-color, #121212));" vertex="1" parent="1">
-          <mxGeometry x="-1159.5" y="2916.62" width="93" height="33.38" as="geometry" />
+        <mxCell id="Xujkd4e2R2l38mAxWZec-13" value="Blockchain" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=light-dark(#CCCCCC,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="-1166" y="2952.5" width="105" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Xujkd4e2R2l38mAxWZec-10" value="Redis" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-1168" y="2880.12" width="110" height="36.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Xujkd4e2R2l38mAxWZec-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xujkd4e2R2l38mAxWZec-10" target="vvHvxiC7P0n0-EurL7go-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-590" y="2900" as="sourcePoint" />
+            <mxPoint x="-540" y="2850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xujkd4e2R2l38mAxWZec-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xujkd4e2R2l38mAxWZec-13" target="vvHvxiC7P0n0-EurL7go-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-690" y="3020" as="sourcePoint" />
+            <mxPoint x="-640" y="2970" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
