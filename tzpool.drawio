@@ -1640,7 +1640,7 @@
           <mxGeometry x="905" y="39.75" width="197" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vvHvxiC7P0n0-EurL7go-44" value="&lt;div&gt;нормализованные&amp;nbsp;&lt;/div&gt;&lt;div&gt;шары (через&amp;nbsp;&lt;/div&gt;&lt;div&gt;gRPC API)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="vvHvxiC7P0n0-EurL7go-54" vertex="1">
-          <mxGeometry x="455" y="32.75" width="140" height="44" as="geometry" />
+          <mxGeometry x="455" y="43.75" width="140" height="44" as="geometry" />
         </mxCell>
         <mxCell id="Xujkd4e2R2l38mAxWZec-2" value="&lt;div&gt;PHP&lt;/div&gt;&lt;div&gt;backend&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#A8B3FF;" vertex="1" parent="vvHvxiC7P0n0-EurL7go-54">
           <mxGeometry x="1172" y="153.5" width="120" height="80" as="geometry" />
