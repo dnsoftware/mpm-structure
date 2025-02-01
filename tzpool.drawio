@@ -1312,7 +1312,7 @@
           <mxGeometry x="770" y="110" width="540" height="200" as="geometry" />
         </mxCell>
         <mxCell id="vvHvxiC7P0n0-EurL7go-139" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" parent="vvHvxiC7P0n0-EurL7go-54" vertex="1">
-          <mxGeometry x="-80" y="120" width="320" height="290" as="geometry" />
+          <mxGeometry x="-160" y="120" width="400" height="290" as="geometry" />
         </mxCell>
         <mxCell id="vvHvxiC7P0n0-EurL7go-48" value="&lt;div&gt;Share checker&lt;/div&gt;&lt;div&gt;service&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=none;dashed=1;" parent="vvHvxiC7P0n0-EurL7go-54" vertex="1">
           <mxGeometry x="46.5" y="146.5" width="120" height="80" as="geometry" />
@@ -1653,6 +1653,15 @@
         </mxCell>
         <mxCell id="Xujkd4e2R2l38mAxWZec-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="vvHvxiC7P0n0-EurL7go-54">
           <mxGeometry x="825" y="400" width="480" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="Xujkd4e2R2l38mAxWZec-10" value="Redis" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FF0000;" vertex="1" parent="vvHvxiC7P0n0-EurL7go-54">
+          <mxGeometry x="-103" y="197.25" width="110" height="36.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Xujkd4e2R2l38mAxWZec-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="vvHvxiC7P0n0-EurL7go-54" source="Xujkd4e2R2l38mAxWZec-10" target="vvHvxiC7P0n0-EurL7go-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="475" y="262.5" as="sourcePoint" />
+            <mxPoint x="525" y="212.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vvHvxiC7P0n0-EurL7go-57" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F19C99;" parent="1" vertex="1">
           <mxGeometry x="735" y="2898.2199999999993" width="70" height="50" as="geometry" />
