@@ -1641,15 +1641,6 @@
         <mxCell id="vvHvxiC7P0n0-EurL7go-44" value="&lt;div&gt;нормализованные&amp;nbsp;&lt;/div&gt;&lt;div&gt;шары (через&amp;nbsp;&lt;/div&gt;&lt;div&gt;gRPC API)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="vvHvxiC7P0n0-EurL7go-54" vertex="1">
           <mxGeometry x="455" y="32.75" width="140" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="vvHvxiC7P0n0-EurL7go-20" value="&lt;div&gt;ClickHouse cluster&lt;br&gt;&lt;/div&gt;&lt;div&gt;share storage&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFFF00;" parent="vvHvxiC7P0n0-EurL7go-54" vertex="1">
-          <mxGeometry x="670.13" y="-166.30000000000018" width="115.75" height="109" as="geometry" />
-        </mxCell>
-        <mxCell id="edesAq91Je20VQknrMrQ-6" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="vvHvxiC7P0n0-EurL7go-54" source="vvHvxiC7P0n0-EurL7go-20" target="edesAq91Je20VQknrMrQ-2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590" y="145.19999999999982" as="sourcePoint" />
-            <mxPoint x="640" y="95.19999999999982" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vvHvxiC7P0n0-EurL7go-57" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F19C99;" parent="1" vertex="1">
           <mxGeometry x="735" y="2898.2199999999993" width="70" height="50" as="geometry" />
         </mxCell>
@@ -2074,6 +2065,15 @@
         <mxCell id="NlVV6BjoRosFhoFY8fd4-4" value="traces" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NlVV6BjoRosFhoFY8fd4-3" vertex="1" connectable="0">
           <mxGeometry x="0.4165" y="-1" relative="1" as="geometry">
             <mxPoint x="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vvHvxiC7P0n0-EurL7go-20" value="&lt;div&gt;ClickHouse cluster&lt;br&gt;&lt;/div&gt;&lt;div&gt;share storage&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFFF00;" parent="1" vertex="1">
+          <mxGeometry x="-300" y="2471.2" width="115.75" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="edesAq91Je20VQknrMrQ-6" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="vvHvxiC7P0n0-EurL7go-20" target="edesAq91Je20VQknrMrQ-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-475" y="2782.7" as="sourcePoint" />
+            <mxPoint x="-425" y="2732.7" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
