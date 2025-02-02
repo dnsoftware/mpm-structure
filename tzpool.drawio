@@ -1219,7 +1219,7 @@
           <mxGeometry x="394.79" y="420.5" width="152" height="245.5" as="geometry" />
         </mxCell>
         <mxCell id="vvHvxiC7P0n0-EurL7go-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F7F7F7;shadow=0;" parent="vvHvxiC7P0n0-EurL7go-54" vertex="1">
-          <mxGeometry x="-540" y="-230" width="1860" height="1080" as="geometry" />
+          <mxGeometry x="-200" y="-230" width="1520" height="1080" as="geometry" />
         </mxCell>
         <mxCell id="edesAq91Je20VQknrMrQ-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="vvHvxiC7P0n0-EurL7go-54" vertex="1">
           <mxGeometry x="770" y="110" width="540" height="200" as="geometry" />
@@ -1256,9 +1256,6 @@
         </mxCell>
         <mxCell id="vvHvxiC7P0n0-EurL7go-41" value="&lt;div&gt;данные&amp;nbsp;&lt;/div&gt;&lt;div&gt;справочников&lt;/div&gt;&lt;div&gt;(через&amp;nbsp;&lt;/div&gt;&lt;div&gt;gRPC API)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="vvHvxiC7P0n0-EurL7go-54" vertex="1">
           <mxGeometry x="635" y="112.5" width="130" height="66.5" as="geometry" />
-        </mxCell>
-        <mxCell id="vvHvxiC7P0n0-EurL7go-59" value="Shares pipeline" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="vvHvxiC7P0n0-EurL7go-54" vertex="1">
-          <mxGeometry x="-20" y="760" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vvHvxiC7P0n0-EurL7go-101" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=south;fillColor=#99FF99;" parent="vvHvxiC7P0n0-EurL7go-54" vertex="1">
           <mxGeometry x="382.79" y="353.5" width="179.5" height="263.5" as="geometry" />
