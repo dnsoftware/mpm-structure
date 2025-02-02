@@ -1474,7 +1474,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HoqDJreu8S-VWED5uN6Z-2" value="Fluentbit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="vvHvxiC7P0n0-EurL7go-54" vertex="1">
-          <mxGeometry x="534.08" y="650.5" width="76.21" height="28.24" as="geometry" />
+          <mxGeometry x="549.08" y="650.5" width="76.21" height="28.24" as="geometry" />
         </mxCell>
         <mxCell id="HoqDJreu8S-VWED5uN6Z-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#3333FF;" parent="vvHvxiC7P0n0-EurL7go-54" source="vvHvxiC7P0n0-EurL7go-141" target="HoqDJreu8S-VWED5uN6Z-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1487,9 +1487,9 @@
             <mxPoint x="550" y="523.5" as="sourcePoint" />
             <mxPoint x="600" y="473.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="548" y="664" />
-              <mxPoint x="350" y="664" />
-              <mxPoint x="350" y="498" />
+              <mxPoint x="548" y="665" />
+              <mxPoint x="345" y="664" />
+              <mxPoint x="345" y="498" />
             </Array>
           </mxGeometry>
         </mxCell>
