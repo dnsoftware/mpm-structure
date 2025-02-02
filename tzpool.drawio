@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.10">
   <diagram name="Page-1" id="zC7TiCwEvtzbdXVQnTLh">
-    <mxGraphModel dx="2877" dy="1649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3393" dy="1889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2094,15 +2094,10 @@
         <mxCell id="JiAKYyqFIKbfU7R_gykp-3" value="Fluentbit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="1" vertex="1">
           <mxGeometry x="-72" y="2563.25" width="76.21" height="28.24" as="geometry" />
         </mxCell>
-        <mxCell id="JiAKYyqFIKbfU7R_gykp-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#3333FF;entryX=0.786;entryY=0.293;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JiAKYyqFIKbfU7R_gykp-3" target="vvHvxiC7P0n0-EurL7go-37" edge="1">
+        <mxCell id="JiAKYyqFIKbfU7R_gykp-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#3333FF;" parent="1" source="JiAKYyqFIKbfU7R_gykp-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-376" y="2530" as="sourcePoint" />
-            <mxPoint x="-86" y="2660" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JiAKYyqFIKbfU7R_gykp-6" value="logs to kafka" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JiAKYyqFIKbfU7R_gykp-5" vertex="1" connectable="0">
-          <mxGeometry x="-0.0423" y="1" relative="1" as="geometry">
-            <mxPoint x="2" y="18" as="offset" />
+            <mxPoint x="-60" y="2630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="edesAq91Je20VQknrMrQ-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="JiAKYyqFIKbfU7R_gykp-2" target="edesAq91Je20VQknrMrQ-3" edge="1">
