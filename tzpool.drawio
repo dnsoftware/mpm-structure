@@ -2306,7 +2306,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fo8guP2R-N-rsLWpbJer" name="V2 architect">
-    <mxGraphModel dx="3314" dy="-359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3755" dy="-156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2660,7 +2660,7 @@
         <mxCell id="KKm27bK4tFFCYv_A-vgP-4" value="workers_log" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-1140" y="2733.5" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KKm27bK4tFFCYv_A-vgP-5" value="blocks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KKm27bK4tFFCYv_A-vgP-5" value="blocks" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#99CCFF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
           <mxGeometry x="-1140" y="2352.5" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KKm27bK4tFFCYv_A-vgP-6" value="pool_errors" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
@@ -2796,22 +2796,25 @@
           <mxGeometry x="-1140" y="2599.5" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KKm27bK4tFFCYv_A-vgP-50" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#99CCFF;" vertex="1" parent="1">
-          <mxGeometry x="586.47" y="2214" width="144.53" height="117.5" as="geometry" />
+          <mxGeometry x="586.47" y="2214" width="144.53" height="166" as="geometry" />
         </mxCell>
         <mxCell id="KKm27bK4tFFCYv_A-vgP-51" value="&lt;div&gt;Postgresql cluster&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="593.74" y="2244" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KKm27bK4tFFCYv_A-vgP-52" value="worker_block_rewards" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KKm27bK4tFFCYv_A-vgP-52" value="blocks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="593.74" y="2269.5" width="130" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="KKm27bK4tFFCYv_A-vgP-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-150" y="2182.5" width="470" height="297.5" as="geometry" />
         </mxCell>
-        <mxCell id="KKm27bK4tFFCYv_A-vgP-56" value="worker_block_rewards" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KKm27bK4tFFCYv_A-vgP-56" value="block_params ?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="593.74" y="2291.5" width="130" height="17.5" as="geometry" />
         </mxCell>
-        <mxCell id="KKm27bK4tFFCYv_A-vgP-57" value="block_params?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KKm27bK4tFFCYv_A-vgP-57" value="block_params?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#99CCFF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
           <mxGeometry x="-1140" y="2392.5" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KKm27bK4tFFCYv_A-vgP-58" value="worker_block_rewards" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="594.74" y="2313.5" width="130" height="17.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
