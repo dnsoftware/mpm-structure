@@ -2306,7 +2306,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fo8guP2R-N-rsLWpbJer" name="V2 architect">
-    <mxGraphModel dx="3314" dy="-1459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3438" dy="-1402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2502,25 +2502,25 @@
           <mxGeometry x="93.15567129629629" y="74.84418749999999" width="11.60375" height="11.60375" as="geometry" />
         </mxCell>
         <mxCell id="juKkmb9owyzjkED2gV3j-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="500" y="2220" width="150" height="100" as="geometry" />
+          <mxGeometry x="450" y="2235.67" width="135" height="90" as="geometry" />
         </mxCell>
         <mxCell id="juKkmb9owyzjkED2gV3j-2" value="Shares analitics" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FFCCE6;" vertex="1" parent="juKkmb9owyzjkED2gV3j-1">
-          <mxGeometry width="150" height="100" as="geometry" />
+          <mxGeometry width="135" height="90" as="geometry" />
         </mxCell>
         <mxCell id="juKkmb9owyzjkED2gV3j-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#0000FF,var(--ge-dark-color, #121212));" vertex="1" parent="juKkmb9owyzjkED2gV3j-1">
-          <mxGeometry x="60.208333333333336" y="80.625" width="12.5" height="12.5" as="geometry" />
+          <mxGeometry x="54.1875" y="72.5625" width="11.25" height="11.25" as="geometry" />
         </mxCell>
         <mxCell id="juKkmb9owyzjkED2gV3j-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FF0000,var(--ge-dark-color, #121212));" vertex="1" parent="juKkmb9owyzjkED2gV3j-1">
-          <mxGeometry x="80.95833333333337" y="80.625" width="12.5" height="12.5" as="geometry" />
+          <mxGeometry x="72.86250000000004" y="72.5625" width="11.25" height="11.25" as="geometry" />
         </mxCell>
         <mxCell id="juKkmb9owyzjkED2gV3j-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#00FF00,var(--ge-dark-color, #121212));" vertex="1" parent="juKkmb9owyzjkED2gV3j-1">
-          <mxGeometry x="101.45833333333334" y="80.625" width="12.5" height="12.5" as="geometry" />
+          <mxGeometry x="91.31250000000001" y="72.5625" width="11.25" height="11.25" as="geometry" />
         </mxCell>
         <mxCell id="juKkmb9owyzjkED2gV3j-6" value="cache" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#CCFF99;" vertex="1" parent="juKkmb9owyzjkED2gV3j-1">
-          <mxGeometry x="16.544444444444366" y="3.3333333333333335" width="72.6888888888889" height="18.522222222222226" as="geometry" />
+          <mxGeometry x="14.88999999999993" y="3" width="65.42000000000002" height="16.670000000000005" as="geometry" />
         </mxCell>
         <mxCell id="eCW9FxwxTIZdLRGPHdOA-32" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#CC99FF,var(--ge-dark-color, #121212));" vertex="1" parent="juKkmb9owyzjkED2gV3j-1">
-          <mxGeometry x="37.99562500000002" y="80.62687499999993" width="11.9375" height="11.9375" as="geometry" />
+          <mxGeometry x="34.19606250000002" y="72.56418749999993" width="10.74375" height="10.74375" as="geometry" />
         </mxCell>
         <mxCell id="NMBUX4-WUMn4eESDxjUm-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="2440" width="540" height="300" as="geometry" />
