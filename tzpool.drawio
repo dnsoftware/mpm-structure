@@ -2306,7 +2306,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fo8guP2R-N-rsLWpbJer" name="V2 architect">
-    <mxGraphModel dx="3314" dy="-1459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2830" dy="-581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2754,7 +2754,25 @@
           <mxGeometry x="91.21000000000004" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KKm27bK4tFFCYv_A-vgP-34" value="API Gataway" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="2352.5" width="97.5" height="97.5" as="geometry" />
+          <mxGeometry x="-350" y="2060" width="97.5" height="97.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KKm27bK4tFFCYv_A-vgP-35" value="Service Discovery" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="-361.25" y="1960" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KKm27bK4tFFCYv_A-vgP-36" value="Protobuf в очередях" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="-199.25" y="1960" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KKm27bK4tFFCYv_A-vgP-37" value="Отдельные базы" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="1960" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KKm27bK4tFFCYv_A-vgP-38" value="&lt;div&gt;Transactional &lt;br&gt;&lt;/div&gt;&lt;div&gt;outbox&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-208.36" y="2068.75" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KKm27bK4tFFCYv_A-vgP-40" value="Saga &lt;span style=&quot;white-space: pre-wrap;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot; data-src-align=&quot;0:11&quot; class=&quot;EzKURWReUAB5oZgtQNkl&quot;&gt;orchestrator&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="2078.75" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KKm27bK4tFFCYv_A-vgP-41" value="&lt;div&gt;RabbitMQ&lt;/div&gt;&lt;div&gt;GUI&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-41.25" y="2068.75" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
