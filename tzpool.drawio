@@ -2306,7 +2306,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fo8guP2R-N-rsLWpbJer" name="V2 architect">
-    <mxGraphModel dx="3960" dy="-62" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2956" dy="-523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2747,11 +2747,14 @@
         <mxCell id="eCW9FxwxTIZdLRGPHdOA-1" value="config" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC99FF;" vertex="1" parent="KKm27bK4tFFCYv_A-vgP-33">
           <mxGeometry x="15" y="35.25" width="85" height="16.5" as="geometry" />
         </mxCell>
-        <mxCell id="KKm27bK4tFFCYv_A-vgP-27" value="&lt;div&gt;Postgresql cluster&lt;/div&gt;&lt;div&gt;(Postgres, pgBouncer, Patroni, etcd, HAproxy)&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#99CCFF;" vertex="1" parent="KKm27bK4tFFCYv_A-vgP-33">
+        <mxCell id="KKm27bK4tFFCYv_A-vgP-27" value="&lt;div&gt;(PostgreSQL, pgBouncer, Patroni, etcd, HAproxy)&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#99CCFF;" vertex="1" parent="KKm27bK4tFFCYv_A-vgP-33">
           <mxGeometry x="7" y="155" width="101" height="130" as="geometry" />
         </mxCell>
         <mxCell id="KKm27bK4tFFCYv_A-vgP-32" value="Условные обозначения" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KKm27bK4tFFCYv_A-vgP-33">
           <mxGeometry x="91.21000000000004" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KKm27bK4tFFCYv_A-vgP-47" value="Postgresql cluster" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KKm27bK4tFFCYv_A-vgP-33">
+          <mxGeometry x="27.5" y="157" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KKm27bK4tFFCYv_A-vgP-34" value="API Gataway" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-350" y="2060" width="97.5" height="97.5" as="geometry" />
