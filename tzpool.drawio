@@ -2306,7 +2306,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fo8guP2R-N-rsLWpbJer" name="V2 architect">
-    <mxGraphModel dx="3029" dy="-1589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3960" dy="-1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2586,7 +2586,7 @@
           <mxGeometry x="-593" y="2241.17" width="120" height="48.83" as="geometry" />
         </mxCell>
         <mxCell id="2bX4SH70I2_KTaLmHTje-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-830" y="2220" width="195" height="189.56" as="geometry" />
+          <mxGeometry x="-819" y="2214" width="195" height="189.56" as="geometry" />
         </mxCell>
         <mxCell id="2bX4SH70I2_KTaLmHTje-2" value="" style="group" vertex="1" connectable="0" parent="2bX4SH70I2_KTaLmHTje-1">
           <mxGeometry width="195" height="189.56" as="geometry" />
