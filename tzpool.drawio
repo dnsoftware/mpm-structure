@@ -2306,7 +2306,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fo8guP2R-N-rsLWpbJer" name="V2 architect">
-    <mxGraphModel dx="3314" dy="-359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3314" dy="-1459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2661,19 +2661,19 @@
           <mxGeometry x="-88.35516203703702" y="2671.1941874999998" width="11.60375" height="11.60375" as="geometry" />
         </mxCell>
         <mxCell id="KKm27bK4tFFCYv_A-vgP-1" value="coins" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1140" y="2224.5" width="170" height="30" as="geometry" />
+          <mxGeometry x="-1140" y="2232.5" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KKm27bK4tFFCYv_A-vgP-2" value="wallets" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1140" y="2264.5" width="170" height="30" as="geometry" />
+          <mxGeometry x="-1140" y="2272.5" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KKm27bK4tFFCYv_A-vgP-3" value="workers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1140" y="2305.5" width="170" height="30" as="geometry" />
+          <mxGeometry x="-1140" y="2313.5" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KKm27bK4tFFCYv_A-vgP-4" value="workers_log" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-1140" y="2577.5" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KKm27bK4tFFCYv_A-vgP-5" value="blocks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1140" y="2344.5" width="170" height="30" as="geometry" />
+          <mxGeometry x="-1140" y="2352.5" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KKm27bK4tFFCYv_A-vgP-6" value="pool_errors" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-1140" y="2607.5" width="170" height="20" as="geometry" />
@@ -2682,13 +2682,13 @@
           <mxGeometry x="-1140" y="2637.5" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KKm27bK4tFFCYv_A-vgP-8" value="payouts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1140" y="2383.5" width="170" height="30" as="geometry" />
+          <mxGeometry x="-1140" y="2391.5" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KKm27bK4tFFCYv_A-vgP-9" value="share_stats" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1140" y="2424.5" width="170" height="30" as="geometry" />
+          <mxGeometry x="-1140" y="2432.5" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KKm27bK4tFFCYv_A-vgP-10" value="worker_block_rewards" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1140" y="2464.5" width="170" height="30" as="geometry" />
+          <mxGeometry x="-1140" y="2472.5" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KKm27bK4tFFCYv_A-vgP-11" value="block_params" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-1140" y="2664.5" width="170" height="20" as="geometry" />
@@ -2724,7 +2724,7 @@
           <mxGeometry x="-1140" y="2548.62" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KKm27bK4tFFCYv_A-vgP-23" value="Рабочие таблицы" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1140" y="2194.5" width="170" height="30" as="geometry" />
+          <mxGeometry x="-1140" y="2202.5" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
