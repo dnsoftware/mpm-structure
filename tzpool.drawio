@@ -2306,7 +2306,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fo8guP2R-N-rsLWpbJer" name="V2 architect">
-    <mxGraphModel dx="3960" dy="-62" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3438" dy="-302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2487,7 +2487,7 @@
           <mxGeometry x="194.25" y="2216.6699999999996" width="115.75" height="109" as="geometry" />
         </mxCell>
         <mxCell id="DnXYrBezfYkYnkcbyKj9-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="190" y="2397.17" width="139.25" height="92.83" as="geometry" />
+          <mxGeometry x="40" y="2350" width="139.25" height="92.83" as="geometry" />
         </mxCell>
         <mxCell id="DnXYrBezfYkYnkcbyKj9-2" value="Miners rewards" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FFCC99;" vertex="1" parent="DnXYrBezfYkYnkcbyKj9-1">
           <mxGeometry width="139.25" height="92.83" as="geometry" />
@@ -2500,6 +2500,9 @@
         </mxCell>
         <mxCell id="DnXYrBezfYkYnkcbyKj9-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#00FF00,var(--ge-dark-color, #121212));" vertex="1" parent="DnXYrBezfYkYnkcbyKj9-1">
           <mxGeometry x="93.15567129629629" y="74.84418749999999" width="11.60375" height="11.60375" as="geometry" />
+        </mxCell>
+        <mxCell id="eCW9FxwxTIZdLRGPHdOA-33" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#CC99FF,var(--ge-dark-color, #121212));" vertex="1" parent="DnXYrBezfYkYnkcbyKj9-1">
+          <mxGeometry x="35.001921296296274" y="74.84418749999986" width="11.60375" height="11.60375" as="geometry" />
         </mxCell>
         <mxCell id="juKkmb9owyzjkED2gV3j-1" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="450" y="2235.67" width="135" height="90" as="geometry" />
@@ -2636,9 +2639,6 @@
         <mxCell id="eCW9FxwxTIZdLRGPHdOA-27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#CC99FF,var(--ge-dark-color, #121212));" vertex="1" parent="eCW9FxwxTIZdLRGPHdOA-22">
           <mxGeometry x="35.215625" y="76.996875" width="11.9375" height="11.9375" as="geometry" />
         </mxCell>
-        <mxCell id="eCW9FxwxTIZdLRGPHdOA-33" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#CC99FF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
-          <mxGeometry x="223.8619212962963" y="2472.0141875" width="11.60375" height="11.60375" as="geometry" />
-        </mxCell>
         <mxCell id="eCW9FxwxTIZdLRGPHdOA-34" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#CC99FF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
           <mxGeometry x="219.5" y="2714.5" width="10" height="10" as="geometry" />
         </mxCell>
@@ -2675,7 +2675,7 @@
         <mxCell id="KKm27bK4tFFCYv_A-vgP-9" value="share_stats" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFF66,var(--ge-dark-color, #121212));" vertex="1" parent="1">
           <mxGeometry x="-1140" y="2432.5" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KKm27bK4tFFCYv_A-vgP-10" value="worker_block_rewards" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KKm27bK4tFFCYv_A-vgP-10" value="worker_block_rewards" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#99CCFF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
           <mxGeometry x="-1140" y="2472.5" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KKm27bK4tFFCYv_A-vgP-11" value="block_params" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
@@ -2794,6 +2794,15 @@
         </mxCell>
         <mxCell id="KKm27bK4tFFCYv_A-vgP-49" value="share_stats" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1140" y="2556.5" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KKm27bK4tFFCYv_A-vgP-50" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="235.47" y="2352.5" width="144.53" height="117.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KKm27bK4tFFCYv_A-vgP-51" value="&lt;div&gt;Postgresql cluster&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="242.74" y="2382.5" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KKm27bK4tFFCYv_A-vgP-52" value="worker_block_rewards" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="242.74" y="2408" width="130" height="17.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
