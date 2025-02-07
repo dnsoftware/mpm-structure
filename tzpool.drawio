@@ -2306,7 +2306,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fo8guP2R-N-rsLWpbJer" name="V2 architect">
-    <mxGraphModel dx="4091" dy="31" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3294" dy="-346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2765,8 +2765,8 @@
         <mxCell id="iT-KbTmpYHOu1KHGW-OT-15" value="etcd cluster" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iT-KbTmpYHOu1KHGW-OT-16">
           <mxGeometry x="25" width="65" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iT-KbTmpYHOu1KHGW-OT-17" value="&lt;div&gt;services configs&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iT-KbTmpYHOu1KHGW-OT-16">
-          <mxGeometry x="10" y="37.75" width="90" height="62.25" as="geometry" />
+        <mxCell id="iT-KbTmpYHOu1KHGW-OT-17" value="&lt;div&gt;services configs&lt;/div&gt;service discovery" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iT-KbTmpYHOu1KHGW-OT-16">
+          <mxGeometry x="5" y="37.75" width="100" height="62.25" as="geometry" />
         </mxCell>
         <mxCell id="KKm27bK4tFFCYv_A-vgP-34" value="API Gataway" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="2273.5" width="97.5" height="97.5" as="geometry" />
@@ -2863,6 +2863,9 @@
         </mxCell>
         <mxCell id="iT-KbTmpYHOu1KHGW-OT-13" value="&lt;div&gt;Saga&amp;nbsp;&lt;/div&gt;&lt;div&gt;orchestrator&lt;/div&gt;" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.oos_operation_orchestration_service;" vertex="1" parent="1">
           <mxGeometry x="-323.8" y="2740" width="129.22" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="iT-KbTmpYHOu1KHGW-OT-18" value="Redis для сервиса&amp;nbsp; участвующего в саге для хранения ключей идемпотентности" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-518.75" y="1968.75" width="188.75" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
