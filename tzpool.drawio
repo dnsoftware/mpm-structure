@@ -2382,7 +2382,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rkpB2-x-Fk8vpm928Sym-1" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="110" y="2750" width="120" height="80" as="geometry" />
+          <mxGeometry x="123" y="2750" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rkpB2-x-Fk8vpm928Sym-2" value="&lt;div&gt;Metrics &lt;br&gt;&lt;/div&gt;&lt;div&gt;go-exporter&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#E5CCFF;" parent="rkpB2-x-Fk8vpm928Sym-1" vertex="1">
           <mxGeometry width="120" height="80" as="geometry" />
