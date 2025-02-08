@@ -2306,7 +2306,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fo8guP2R-N-rsLWpbJer" name="V2 architect">
-    <mxGraphModel dx="3294" dy="-346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3932" dy="-44" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2756,16 +2756,16 @@
         <mxCell id="KKm27bK4tFFCYv_A-vgP-47" value="Postgresql cluster" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="KKm27bK4tFFCYv_A-vgP-33" vertex="1">
           <mxGeometry x="27.5" y="157" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iT-KbTmpYHOu1KHGW-OT-16" value="" style="group" vertex="1" connectable="0" parent="KKm27bK4tFFCYv_A-vgP-33">
+        <mxCell id="iT-KbTmpYHOu1KHGW-OT-16" value="" style="group" parent="KKm27bK4tFFCYv_A-vgP-33" vertex="1" connectable="0">
           <mxGeometry x="160" y="35.25" width="110" height="114.75" as="geometry" />
         </mxCell>
-        <mxCell id="iT-KbTmpYHOu1KHGW-OT-14" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=light-dark(#CC99FF,var(--ge-dark-color, #121212));" vertex="1" parent="iT-KbTmpYHOu1KHGW-OT-16">
+        <mxCell id="iT-KbTmpYHOu1KHGW-OT-14" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=light-dark(#CC99FF,var(--ge-dark-color, #121212));" parent="iT-KbTmpYHOu1KHGW-OT-16" vertex="1">
           <mxGeometry width="110" height="114.75" as="geometry" />
         </mxCell>
-        <mxCell id="iT-KbTmpYHOu1KHGW-OT-15" value="etcd cluster" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iT-KbTmpYHOu1KHGW-OT-16">
+        <mxCell id="iT-KbTmpYHOu1KHGW-OT-15" value="etcd cluster" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="iT-KbTmpYHOu1KHGW-OT-16" vertex="1">
           <mxGeometry x="25" width="65" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iT-KbTmpYHOu1KHGW-OT-17" value="&lt;div&gt;services configs&lt;/div&gt;service discovery" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iT-KbTmpYHOu1KHGW-OT-16">
+        <mxCell id="iT-KbTmpYHOu1KHGW-OT-17" value="&lt;div&gt;services configs&lt;/div&gt;&lt;div&gt;service discovery&lt;/div&gt;&lt;div&gt;postgres cluster&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="iT-KbTmpYHOu1KHGW-OT-16" vertex="1">
           <mxGeometry x="5" y="37.75" width="100" height="62.25" as="geometry" />
         </mxCell>
         <mxCell id="KKm27bK4tFFCYv_A-vgP-34" value="API Gataway" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -2825,46 +2825,46 @@
         <mxCell id="KKm27bK4tFFCYv_A-vgP-59" value="worker difficulty" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1140" y="2637.5" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iT-KbTmpYHOu1KHGW-OT-1" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="iT-KbTmpYHOu1KHGW-OT-1" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="806.75" y="2525.5" width="143.25" height="95.5" as="geometry" />
         </mxCell>
-        <mxCell id="iT-KbTmpYHOu1KHGW-OT-2" value="Admin backend" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#9AC7BF;" vertex="1" parent="iT-KbTmpYHOu1KHGW-OT-1">
+        <mxCell id="iT-KbTmpYHOu1KHGW-OT-2" value="Admin backend" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#9AC7BF;" parent="iT-KbTmpYHOu1KHGW-OT-1" vertex="1">
           <mxGeometry width="143.25" height="95.5" as="geometry" />
         </mxCell>
-        <mxCell id="iT-KbTmpYHOu1KHGW-OT-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#0000FF,var(--ge-dark-color, #121212));" vertex="1" parent="iT-KbTmpYHOu1KHGW-OT-1">
+        <mxCell id="iT-KbTmpYHOu1KHGW-OT-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#0000FF,var(--ge-dark-color, #121212));" parent="iT-KbTmpYHOu1KHGW-OT-1" vertex="1">
           <mxGeometry x="55.509375000000006" y="76.996875" width="11.9375" height="11.9375" as="geometry" />
         </mxCell>
-        <mxCell id="iT-KbTmpYHOu1KHGW-OT-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FF0000,var(--ge-dark-color, #121212));" vertex="1" parent="iT-KbTmpYHOu1KHGW-OT-1">
+        <mxCell id="iT-KbTmpYHOu1KHGW-OT-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FF0000,var(--ge-dark-color, #121212));" parent="iT-KbTmpYHOu1KHGW-OT-1" vertex="1">
           <mxGeometry x="75.32562500000003" y="76.996875" width="11.9375" height="11.9375" as="geometry" />
         </mxCell>
-        <mxCell id="iT-KbTmpYHOu1KHGW-OT-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#00FF00,var(--ge-dark-color, #121212));" vertex="1" parent="iT-KbTmpYHOu1KHGW-OT-1">
+        <mxCell id="iT-KbTmpYHOu1KHGW-OT-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#00FF00,var(--ge-dark-color, #121212));" parent="iT-KbTmpYHOu1KHGW-OT-1" vertex="1">
           <mxGeometry x="94.903125" y="76.996875" width="11.9375" height="11.9375" as="geometry" />
         </mxCell>
-        <mxCell id="iT-KbTmpYHOu1KHGW-OT-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#CC99FF,var(--ge-dark-color, #121212));" vertex="1" parent="iT-KbTmpYHOu1KHGW-OT-1">
+        <mxCell id="iT-KbTmpYHOu1KHGW-OT-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#CC99FF,var(--ge-dark-color, #121212));" parent="iT-KbTmpYHOu1KHGW-OT-1" vertex="1">
           <mxGeometry x="35.215625" y="76.996875" width="11.9375" height="11.9375" as="geometry" />
         </mxCell>
-        <mxCell id="iT-KbTmpYHOu1KHGW-OT-8" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#6666FF;shape=mxgraph.azure.computer" vertex="1" parent="1">
+        <mxCell id="iT-KbTmpYHOu1KHGW-OT-8" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#6666FF;shape=mxgraph.azure.computer" parent="1" vertex="1">
           <mxGeometry x="1020" y="2449.5" width="101.11" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="iT-KbTmpYHOu1KHGW-OT-9" value="&lt;div&gt;Frontend&lt;/div&gt;&lt;div&gt;admin&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="iT-KbTmpYHOu1KHGW-OT-9" value="&lt;div&gt;Frontend&lt;/div&gt;&lt;div&gt;admin&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1039.5500000000002" y="2471.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iT-KbTmpYHOu1KHGW-OT-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="iT-KbTmpYHOu1KHGW-OT-8" target="iT-KbTmpYHOu1KHGW-OT-2">
+        <mxCell id="iT-KbTmpYHOu1KHGW-OT-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="iT-KbTmpYHOu1KHGW-OT-8" target="iT-KbTmpYHOu1KHGW-OT-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="130" y="2510" as="sourcePoint" />
             <mxPoint x="180" y="2460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iT-KbTmpYHOu1KHGW-OT-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="iT-KbTmpYHOu1KHGW-OT-2" target="KKm27bK4tFFCYv_A-vgP-26">
+        <mxCell id="iT-KbTmpYHOu1KHGW-OT-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="iT-KbTmpYHOu1KHGW-OT-2" target="KKm27bK4tFFCYv_A-vgP-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="130" y="2510" as="sourcePoint" />
             <mxPoint x="180" y="2460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iT-KbTmpYHOu1KHGW-OT-13" value="&lt;div&gt;Saga&amp;nbsp;&lt;/div&gt;&lt;div&gt;orchestrator&lt;/div&gt;" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.oos_operation_orchestration_service;" vertex="1" parent="1">
+        <mxCell id="iT-KbTmpYHOu1KHGW-OT-13" value="&lt;div&gt;Saga&amp;nbsp;&lt;/div&gt;&lt;div&gt;orchestrator&lt;/div&gt;" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.oos_operation_orchestration_service;" parent="1" vertex="1">
           <mxGeometry x="-323.8" y="2740" width="129.22" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="iT-KbTmpYHOu1KHGW-OT-18" value="Redis для сервиса&amp;nbsp; участвующего в саге для хранения ключей идемпотентности" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="iT-KbTmpYHOu1KHGW-OT-18" value="Redis для сервиса&amp;nbsp; участвующего в саге для хранения ключей идемпотентности" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="-518.75" y="1968.75" width="188.75" height="80" as="geometry" />
         </mxCell>
       </root>
