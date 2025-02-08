@@ -2862,7 +2862,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iT-KbTmpYHOu1KHGW-OT-13" value="&lt;div&gt;Saga&amp;nbsp;&lt;/div&gt;&lt;div&gt;orchestrator&lt;/div&gt;" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.oos_operation_orchestration_service;" parent="1" vertex="1">
-          <mxGeometry x="-323.8" y="2740" width="129.22" height="130" as="geometry" />
+          <mxGeometry x="-1030" y="1960" width="99.4" height="100" as="geometry" />
         </mxCell>
         <mxCell id="iT-KbTmpYHOu1KHGW-OT-18" value="Redis для сервиса&amp;nbsp; участвующего в саге для хранения ключей идемпотентности" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="-518.75" y="1968.75" width="188.75" height="80" as="geometry" />
