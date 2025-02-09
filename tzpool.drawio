@@ -2306,7 +2306,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fo8guP2R-N-rsLWpbJer" name="V2 architect">
-    <mxGraphModel dx="4275" dy="118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3156" dy="-411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2356,7 +2356,7 @@
           <mxGeometry x="-763" y="2434.5" width="93" height="33.38" as="geometry" />
         </mxCell>
         <mxCell id="rsj4zIxtUKoPp7OeSej2-17" value="Blockchain" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=light-dark(#CCCCCC,var(--ge-dark-color, #121212));" parent="1" vertex="1">
-          <mxGeometry x="-775" y="2596.5" width="105" height="93.5" as="geometry" />
+          <mxGeometry x="-783" y="2630" width="105" height="93.5" as="geometry" />
         </mxCell>
         <mxCell id="rsj4zIxtUKoPp7OeSej2-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="rsj4zIxtUKoPp7OeSej2-17" target="eCW9FxwxTIZdLRGPHdOA-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2375,8 +2375,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rsj4zIxtUKoPp7OeSej2-21" value="&lt;div&gt;Redis:&lt;/div&gt;vardiffs" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-772" y="2500" width="110" height="75.62" as="geometry" />
+        <mxCell id="rsj4zIxtUKoPp7OeSej2-21" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="-800" y="2480" width="138" height="120" as="geometry" />
         </mxCell>
         <mxCell id="rsj4zIxtUKoPp7OeSej2-22" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="rsj4zIxtUKoPp7OeSej2-21" target="eCW9FxwxTIZdLRGPHdOA-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -3026,6 +3026,15 @@
             <mxPoint x="-300" y="3700" as="sourcePoint" />
             <mxPoint x="-270" y="3700" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WeUFV7GHS1pmmLAI-gyq-3" value="vardiffs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="2505.44" width="90" height="16.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WeUFV7GHS1pmmLAI-gyq-4" value="Redis" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-756.36" y="2477.44" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WeUFV7GHS1pmmLAI-gyq-5" value="pending_blocks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-774.5" y="2529" width="90.5" height="16.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
