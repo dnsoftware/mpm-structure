@@ -2306,7 +2306,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fo8guP2R-N-rsLWpbJer" name="V2 architect">
-    <mxGraphModel dx="3156" dy="-411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3462" dy="-266" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2338,10 +2338,10 @@
           <mxGeometry x="-104.75" y="2343.5" width="77.46" height="30" as="geometry" />
         </mxCell>
         <mxCell id="29NximBMQC6Iz7JcUJcK-7" value="block_found" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="-168" y="2906.5" width="160" height="26.5" as="geometry" />
+          <mxGeometry x="-168" y="2842.5" width="160" height="26.5" as="geometry" />
         </mxCell>
         <mxCell id="29NximBMQC6Iz7JcUJcK-8" value="&lt;div&gt;worker_block_rewards&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="-168" y="3012" width="160" height="26.5" as="geometry" />
+          <mxGeometry x="-168" y="2913" width="160" height="26.5" as="geometry" />
         </mxCell>
         <mxCell id="zonnKEGC1qNA1KGuMLIr-3" value="RabbitMQ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-104.25" y="2804.5" width="60" height="30" as="geometry" />
@@ -2755,7 +2755,7 @@
           <mxGeometry x="-131" y="2441.84" width="114.62" height="26.5" as="geometry" />
         </mxCell>
         <mxCell id="KKm27bK4tFFCYv_A-vgP-17" value="block_confirm" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="-168" y="2941.25" width="160" height="26.5" as="geometry" />
+          <mxGeometry x="-168" y="2877.25" width="160" height="26.5" as="geometry" />
         </mxCell>
         <mxCell id="KKm27bK4tFFCYv_A-vgP-18" value="block_miners_contribution" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-1140" y="3121" width="170" height="20" as="geometry" />
@@ -3082,7 +3082,7 @@
             <Array as="points">
               <mxPoint x="380" y="3190" />
               <mxPoint x="-220" y="3190" />
-              <mxPoint x="-220" y="3025" />
+              <mxPoint x="-220" y="2926" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3096,7 +3096,7 @@
             <mxPoint x="60" y="2890" as="sourcePoint" />
             <mxPoint x="110" y="2840" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="90" y="3025" />
+              <mxPoint x="90" y="2960" />
               <mxPoint x="90" y="3170" />
               <mxPoint x="-270" y="3170" />
             </Array>
