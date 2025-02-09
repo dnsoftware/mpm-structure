@@ -2953,22 +2953,16 @@
           <mxGeometry x="448.5" y="2501" width="137" height="120" as="geometry" />
         </mxCell>
         <mxCell id="EPPU2p5I5-LVFoo9oWx--2" value="&lt;div&gt;Postgresql cluster&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="454.5" y="2526.4999999999995" width="130" height="30" as="geometry" />
+          <mxGeometry x="454.5" y="2533.4999999999995" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EPPU2p5I5-LVFoo9oWx--3" value="users" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="474.5" y="2551.0499999999997" width="85" height="16.38" as="geometry" />
+          <mxGeometry x="474.5" y="2566.0499999999997" width="85" height="16.38" as="geometry" />
         </mxCell>
         <mxCell id="EPPU2p5I5-LVFoo9oWx--4" value="users" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#99CCFF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
           <mxGeometry x="-1140" y="2558.69" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EPPU2p5I5-LVFoo9oWx--5" value="&lt;div&gt;A&lt;/div&gt;&lt;div&gt;P&lt;/div&gt;&lt;div&gt;I&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;T&lt;/div&gt;&lt;div&gt;E&lt;/div&gt;&lt;div&gt;W&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;Y&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#CCCCFF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
           <mxGeometry x="1010" y="2202.5" width="50" height="997.5" as="geometry" />
-        </mxCell>
-        <mxCell id="EPPU2p5I5-LVFoo9oWx--6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.007;exitY=0.358;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EPPU2p5I5-LVFoo9oWx--5" target="iT-KbTmpYHOu1KHGW-OT-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="2650" as="sourcePoint" />
-            <mxPoint x="800" y="2564" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
