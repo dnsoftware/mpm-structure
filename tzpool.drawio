@@ -2306,7 +2306,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fo8guP2R-N-rsLWpbJer" name="V2 architect">
-    <mxGraphModel dx="4275" dy="118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3793" dy="-110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2730,7 +2730,7 @@
         <mxCell id="KKm27bK4tFFCYv_A-vgP-7" value="pool_runtime_params" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-1140" y="2998.5" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KKm27bK4tFFCYv_A-vgP-8" value="payouts" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="KKm27bK4tFFCYv_A-vgP-8" value="payouts" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#99CCFF,var(--ge-dark-color, #121212));" parent="1" vertex="1">
           <mxGeometry x="-1140" y="2434.5" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KKm27bK4tFFCYv_A-vgP-9" value="share_stats" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFF66,var(--ge-dark-color, #121212));" parent="1" vertex="1">
@@ -2749,7 +2749,7 @@
           <mxGeometry x="-168" y="2831.5" width="160" height="26.5" as="geometry" />
         </mxCell>
         <mxCell id="KKm27bK4tFFCYv_A-vgP-15" value="pool_error" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="-168" y="2868.5" width="160" height="26.5" as="geometry" />
+          <mxGeometry x="-131" y="2441.84" width="114.62" height="26.5" as="geometry" />
         </mxCell>
         <mxCell id="KKm27bK4tFFCYv_A-vgP-16" value="payouts" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="-168" y="2976.5" width="160" height="26.5" as="geometry" />
@@ -3052,7 +3052,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WeUFV7GHS1pmmLAI-gyq-9" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#99CCFF;" vertex="1" parent="1">
-          <mxGeometry x="-573.75" y="2977.5" width="137" height="120" as="geometry" />
+          <mxGeometry x="-573.75" y="2977.5" width="137" height="132.5" as="geometry" />
         </mxCell>
         <mxCell id="WeUFV7GHS1pmmLAI-gyq-10" value="&lt;div&gt;Postgresql cluster&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-567.75" y="3009.9999999999995" width="130" height="30" as="geometry" />
@@ -3107,6 +3107,12 @@
             <mxPoint x="60" y="2890" as="sourcePoint" />
             <mxPoint x="110" y="2840" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WeUFV7GHS1pmmLAI-gyq-18" value="wallet_balances" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1140" y="2792.8599999999997" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WeUFV7GHS1pmmLAI-gyq-19" value="payouts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-559" y="3063.55" width="107.25" height="16.38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
