@@ -2652,7 +2652,7 @@
         <mxCell id="2bX4SH70I2_KTaLmHTje-6" value="&lt;div&gt;Hashicorp&lt;br&gt;&lt;/div&gt;vault" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=light-dark(#9AC7BF,var(--ge-dark-color, #121212));" parent="2bX4SH70I2_KTaLmHTje-2" vertex="1">
           <mxGeometry x="100" y="79.98522895125554" width="65" height="71.2175564465077" as="geometry" />
         </mxCell>
-        <mxCell id="2bX4SH70I2_KTaLmHTje-7" value="&lt;div&gt;Config management system&lt;/div&gt;&lt;div&gt;+ &lt;br&gt;&lt;/div&gt;&lt;div&gt;Service discovery&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" parent="2bX4SH70I2_KTaLmHTje-1" vertex="1">
+        <mxCell id="2bX4SH70I2_KTaLmHTje-7" value="&lt;div&gt;Config management system&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" parent="2bX4SH70I2_KTaLmHTje-1" vertex="1">
           <mxGeometry x="10" y="168.47815994935632" width="175" height="18.46381093057607" as="geometry" />
         </mxCell>
         <mxCell id="eCW9FxwxTIZdLRGPHdOA-4" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -2785,7 +2785,7 @@
           <mxGeometry x="688" y="2772.62" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KKm27bK4tFFCYv_A-vgP-33" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-830" y="3160" width="350" height="303" as="geometry" />
+          <mxGeometry x="-830" y="3160" width="850" height="303" as="geometry" />
         </mxCell>
         <mxCell id="KKm27bK4tFFCYv_A-vgP-29" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#E6E6E6,#FFFFFF);fillColor=light-dark(#B3B3B3,var(--ge-dark-color, #121212));" parent="KKm27bK4tFFCYv_A-vgP-33" vertex="1">
           <mxGeometry width="346.89" height="303" as="geometry" />
@@ -2812,16 +2812,16 @@
           <mxGeometry x="27.5" y="157" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iT-KbTmpYHOu1KHGW-OT-16" value="" style="group" parent="KKm27bK4tFFCYv_A-vgP-33" vertex="1" connectable="0">
-          <mxGeometry x="160" y="35.25" width="110" height="114.75" as="geometry" />
+          <mxGeometry x="680" y="-20" width="160" height="114.75" as="geometry" />
         </mxCell>
         <mxCell id="iT-KbTmpYHOu1KHGW-OT-14" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=light-dark(#CC99FF,var(--ge-dark-color, #121212));" parent="iT-KbTmpYHOu1KHGW-OT-16" vertex="1">
-          <mxGeometry width="110" height="114.75" as="geometry" />
+          <mxGeometry width="160" height="114.75" as="geometry" />
         </mxCell>
         <mxCell id="iT-KbTmpYHOu1KHGW-OT-15" value="etcd cluster" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="iT-KbTmpYHOu1KHGW-OT-16" vertex="1">
-          <mxGeometry x="25" width="65" height="30" as="geometry" />
+          <mxGeometry x="36.36363636363637" width="94.54545454545455" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iT-KbTmpYHOu1KHGW-OT-17" value="&lt;div&gt;services configs&lt;/div&gt;&lt;div&gt;service discovery&lt;/div&gt;&lt;div&gt;postgres cluster&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="iT-KbTmpYHOu1KHGW-OT-16" vertex="1">
-          <mxGeometry x="5" y="37.75" width="100" height="62.25" as="geometry" />
+          <mxGeometry x="7.272727272727273" y="37.75" width="145.45454545454547" height="62.25" as="geometry" />
         </mxCell>
         <mxCell id="xWJSeejxg2UqwR2COVDv-7" value="SD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#CC99FF,var(--ge-dark-color, #121212));" vertex="1" parent="KKm27bK4tFFCYv_A-vgP-33">
           <mxGeometry x="146.39" y="167" width="39.64" height="20" as="geometry" />
