@@ -2820,7 +2820,7 @@
         <mxCell id="iT-KbTmpYHOu1KHGW-OT-15" value="etcd cluster" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="iT-KbTmpYHOu1KHGW-OT-16" vertex="1">
           <mxGeometry x="36.36363636363637" width="94.54545454545455" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iT-KbTmpYHOu1KHGW-OT-17" value="&lt;div&gt;services configs&lt;/div&gt;&lt;div&gt;service discovery&lt;/div&gt;&lt;div&gt;postgres cluster&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="iT-KbTmpYHOu1KHGW-OT-16" vertex="1">
+        <mxCell id="iT-KbTmpYHOu1KHGW-OT-17" value="&lt;div&gt;services configs&lt;/div&gt;&lt;div&gt;service discovery&lt;/div&gt;patroni storage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="iT-KbTmpYHOu1KHGW-OT-16" vertex="1">
           <mxGeometry x="7.272727272727273" y="37.75" width="145.45454545454547" height="62.25" as="geometry" />
         </mxCell>
         <mxCell id="xWJSeejxg2UqwR2COVDv-7" value="SD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#CC99FF,var(--ge-dark-color, #121212));" vertex="1" parent="KKm27bK4tFFCYv_A-vgP-33">
@@ -3353,6 +3353,12 @@
         </mxCell>
         <mxCell id="c9Z8hkLkkjDCQEu-NSld-40" value="pending_blocks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-560" y="3061.12" width="110.37" height="16.38" as="geometry" />
+        </mxCell>
+        <mxCell id="c9Z8hkLkkjDCQEu-NSld-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ftWv-H4rTxJY_gI-YHG-1" target="c9Z8hkLkkjDCQEu-NSld-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-40" y="2720" as="sourcePoint" />
+            <mxPoint x="10" y="2670" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
