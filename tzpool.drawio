@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Paka9aXqwprSlLEzEw24-1" value="&lt;div&gt;Проверка.&lt;br&gt;&lt;/div&gt;&lt;div&gt;Получение решений от майнеров и их проверка &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Paka9aXqwprSlLEzEw24-1" value="&lt;div&gt;Задания и решения.&lt;br&gt;&lt;/div&gt;&lt;div&gt;Получение решений от майнеров и их проверка &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="100" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="9ao2o-O-ihSqd2i-QO5Q-1" value="&lt;div&gt;Аналитика.&lt;br&gt;&lt;/div&gt;&lt;div&gt;Хранение решений и аналитика по ним&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
