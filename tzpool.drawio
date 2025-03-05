@@ -23,7 +23,7 @@
           <mxGeometry x="80" y="-60" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="C0rXo1qwz0--FDHcbKs0-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Пользователи.&lt;/div&gt;&lt;div&gt;Авторизация, аутентификация и т.д.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="230" width="160" height="90" as="geometry" />
+          <mxGeometry x="465" y="-60" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="vqHFbTCbY9lUrWzLyhtd-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;API gateway для пользовательского и админского фронтов&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="271" y="-60" width="160" height="90" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="95" y="-60" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NdrqeqBESNN-dwOkdNJS-1" value="&lt;b&gt;User manager&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;text-color:#f00;" vertex="1" parent="1">
-          <mxGeometry x="55" y="230" width="130" height="20" as="geometry" />
+          <mxGeometry x="480" y="-60" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NdrqeqBESNN-dwOkdNJS-2" value="&lt;b&gt;API Gateway&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;text-color:#f00;" vertex="1" parent="1">
           <mxGeometry x="287" y="-60" width="130" height="20" as="geometry" />
@@ -146,6 +146,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="60" as="sourcePoint" />
             <mxPoint x="200" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SV__Y7utnBL_PmiWzNz9-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.139;exitY=-0.059;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NdrqeqBESNN-dwOkdNJS-1" target="xCFBLkkRVhWDcSI3ZypC-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="130" as="sourcePoint" />
+            <mxPoint x="560" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
