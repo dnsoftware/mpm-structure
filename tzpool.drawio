@@ -37,6 +37,21 @@
         <mxCell id="hS5kkh7YbyhWjm8CbZ1H-1" value="&lt;b&gt;Miners processor&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;text-color:#f00;" vertex="1" parent="1">
           <mxGeometry x="485" y="100" width="130" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="8kHNWEZDfblMYRbLszLz-1" value="&lt;b&gt;Miners rewards&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;text-color:#f00;" vertex="1" parent="1">
+          <mxGeometry x="85" y="220" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="swveO8afzFcajlIXC8Am-1" value="&lt;b&gt;Miners payouts&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;text-color:#f00;" vertex="1" parent="1">
+          <mxGeometry x="280" y="220" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="A80EK5oWf1Ky6Om0mXLW-1" value="&lt;b&gt;Notification manager&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;text-color:#f00;" vertex="1" parent="1">
+          <mxGeometry x="485" y="220" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NdrqeqBESNN-dwOkdNJS-1" value="&lt;b&gt;User manager&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;text-color:#f00;" vertex="1" parent="1">
+          <mxGeometry x="85" y="340" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NdrqeqBESNN-dwOkdNJS-2" value="&lt;b&gt;API Gateway&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;text-color:#f00;" vertex="1" parent="1">
+          <mxGeometry x="286" y="340" width="130" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
