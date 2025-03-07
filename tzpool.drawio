@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.16" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.1.0" pages="3">
   <diagram id="_zrAxDUqQ-x2-uHZ89cr" name="General scheme">
     <mxGraphModel dx="2004" dy="1646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2464,7 +2464,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fo8guP2R-N-rsLWpbJer" name="V2 architect">
-    <mxGraphModel dx="4091" dy="31" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3793" dy="-110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3591,6 +3591,20 @@
         </mxCell>
         <mxCell id="SWPjzfaWlEbEhXF8sOry-20" value="Notification manager" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="SWPjzfaWlEbEhXF8sOry-19" vertex="1" connectable="0">
           <mxGeometry x="0.0435" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mk3CrXSGH7_GlyxvCGQz-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-480" y="2780" as="sourcePoint" />
+            <mxPoint x="-340" y="2880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-480" y="2880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mk3CrXSGH7_GlyxvCGQz-2" value="to API Gateway" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Mk3CrXSGH7_GlyxvCGQz-1">
+          <mxGeometry x="-0.6042" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
