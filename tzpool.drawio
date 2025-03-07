@@ -2994,10 +2994,7 @@
           <mxGeometry x="623.74" y="3070.25" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KKm27bK4tFFCYv_A-vgP-52" value="blocks" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="623.74" y="3095.75" width="130" height="17.5" as="geometry" />
-        </mxCell>
-        <mxCell id="KKm27bK4tFFCYv_A-vgP-56" value="block_params ?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#E6E6E6,var(--ge-dark-color, #121212));" parent="1" vertex="1">
-          <mxGeometry x="623.74" y="3117.75" width="130" height="17.5" as="geometry" />
+          <mxGeometry x="623.74" y="3106.75" width="130" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="KKm27bK4tFFCYv_A-vgP-57" value="block_params?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#99CCFF,var(--ge-dark-color, #121212));" parent="1" vertex="1">
           <mxGeometry x="-1140" y="2467.5" width="170" height="30" as="geometry" />
